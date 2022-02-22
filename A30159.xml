@@ -1,0 +1,1475 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instruction for the ignorant being a salve to cure that great want of knowledg which so much reigns both in young and old / prepared and presented to them in a plain and easie dialogue, fitted to the capacity of the weakest, by John Bunyan.</title>
+            <author>Bunyan, John, 1628-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30159</idno>
+            <idno type="STC">Wing B5544</idno>
+            <idno type="STC">ESTC R36061</idno>
+            <idno type="EEBO-CITATION">15598995</idno>
+            <idno type="OCLC">ocm 15598995</idno>
+            <idno type="VID">104032</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30159)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104032)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1587:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Instruction for the ignorant being a salve to cure that great want of knowledg which so much reigns both in young and old / prepared and presented to them in a plain and easie dialogue, fitted to the capacity of the weakest, by John Bunyan.</title>
+                  <author>Bunyan, John, 1628-1688.</author>
+               </titleStmt>
+               <extent>44 [i.e. 64] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written in catechetical style.</note>
+                  <note>Imperfect: pages cropped, with print show-through and loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Salvation.</term>
+               <term>Christian life.</term>
+               <term>Catechisms, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104032:1" rendition="simple:additions"/>
+            <p>INSTRUCTION FOR THE IGNORANT: Being a Salve to cure that great want of Knowledg which ſo much reigns both in young and old. Prepared, and preſented to them in a plain and eaſie Dialogue, fitted to the Capacity of the weakeſt. By JOHN BUNYAN.</p>
+            <q>
+               <bibl>
+                  <hi>Hoſ. 4.6.</hi>
+               </bibl> My People periſh for lack of Knowledg.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis Smith</hi> at the Elephant and Caſtle in <hi>Cornhil,</hi> near the Royal-Ex<g ref="char:EOLhyphen"/>change, 1675.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:104032:2"/>
+            <pb facs="tcp:104032:2"/>
+            <head>To the Church of Chriſt in and about <hi>Bedford,</hi> walking in the Faith and Fel<g ref="char:EOLhyphen"/>lowſhip of the Goſpel, your affecti<g ref="char:EOLhyphen"/>onate Brother and Companion in the Kingdom and Patience of <hi>JESUS CHRIST,</hi> wiſheth all Grace and Mercy by <hi>Jeſus Chriſt.</hi> Amen.</head>
+            <p>HOly and beloved, Although I have de<g ref="char:EOLhyphen"/>ſigned this little Treatiſe for publick and common benefit, yet conſidering that I am to you a debtor not only in common Cha<g ref="char:EOLhyphen"/>rity, but by reaſon of ſpecial Bonds which the Lord hath laid upon me to you-ward, I could do no leſs, (being driven from you in preſence, not affection) but firſt preſent you with this little Book; not for that you are wanting in the things contained herein, but to put you again in remembrance of firſt things, and to give you occaſion to preſent ſomething to your carnal relations that may
+<pb facs="tcp:104032:3"/> be (if God will) for their awakening and converſion; accept it therefore as a token of my Chriſtian Remembrance of you.</p>
+            <p>Next, I preſent it to all thoſe unconvert<g ref="char:EOLhyphen"/>ed, old and young, who have been at any time under my Preaching, and yet remain in their ſins: And I entreat them alſo that they receive it as a token of my love to their immortal Souls; yea, I charge them as they will anſwer it in the day of the terrible judg<g ref="char:EOLhyphen"/>ment, that they read, ponder, and receive this wholſom Medicine prepared for them. Now the God of Bleſſing bleſs it to the awa<g ref="char:EOLhyphen"/>kening of many ſinners, and the ſalvation of their ſouls by faith in Jeſus Chriſt. Amen.</p>
+            <closer>
+               <signed>Yours, to ſerve you by my Mi<g ref="char:EOLhyphen"/>niſtry (when I can) to your Edification and Conſo<g ref="char:EOLhyphen"/>lation, <hi>J. B.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb n="5" facs="tcp:104032:3"/>
+            <head>Inſtruction for the Ignorant, &amp;c.</head>
+            <p>Queſt.</p>
+            <p>
+               <hi>
+                  <seg rend="decorInit">H</seg>Ow many Gods are there?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>To the Chriſtians there is but one God, the Father, of whom are all things, and we of him, 1 <hi>Cor.</hi> 8.9.</p>
+            <p>Q. <hi>Why? is not the God of the Chriſtians the God of them that are no Chriſtians?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He is their Maker and Preſerver; but they have not choſen him to be their God, <hi>Acts</hi> 17.24. <hi>Pſal.</hi> 36.6. <hi>Judg.</hi> 10.14.</p>
+            <p>Q. <hi>Is there then other gods beſides the God of the Chriſtians?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> There is none other true God but He: but becauſe they want the grace of Chriſtians, therefore they chuſe not Him, but ſuch gods as will ſuit with, and countenance their luſts, <hi>Joh.</hi> 8.44.</p>
+            <p>Q. <hi>What gods are they that countenance the luſts of wicked men?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Devil, who is the god of this World; the Belly, that god of Gluttons, Drunkards, and riotous perſons; and idle pleaſures and
+<pb n="6" facs="tcp:104032:4"/> vanities, which are for the moſt part the gods of the youth, <hi>Job</hi> 8.44. 2 <hi>Cor.</hi> 4.4. <hi>Phil.</hi> 3.19. <hi>Exod.</hi> 32.6. 1 <hi>Cor.</hi> 10.7. 2 <hi>Tim.</hi> 2.22. 1 <hi>John</hi> 5.21.</p>
+            <p>Q. <hi>Who is a Chriſtian?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> One that is born again, a new creature; one that ſits at Jeſus feet to hear his Word; one that hath his heart purified and ſanctified by Faith which is in Chriſt, <hi>John</hi> 3.3, 5, 7. <hi>Act.</hi> 11.26. <hi>Act.</hi> 15.9. <hi>chap.</hi> 26.18. 2 <hi>Cor.</hi> 5.17.</p>
+            <p>Q. <hi>How do you diſtinguiſh the God of the Chriſtians, from the gods of other people?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He is a Spirit, <hi>John</hi> 4.24.</p>
+            <p>Q. <hi>Is there no other Spirit but the true God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, there are many ſpirits, 1 <hi>John</hi> 4.1.</p>
+            <p>Q. <hi>What ſpirits are they?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The good Angels, are Spirits; the bad Angels are Spirits; and the Souls of Men are Spirits, <hi>Heb.</hi> 1.7.14. 1 <hi>King.</hi> 22.21, 22. <hi>Rev.</hi> 16.13, 14. <hi>Act.</hi> 7.59. <hi>Heb.</hi> 12.23.</p>
+            <p>Q. <hi>How then is the true God diſtinguiſhed from other Spirits?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Thus; No Spirit is Eternal but he, no Spirit is Almighty but he, no Spirit is Incom<g ref="char:EOLhyphen"/>prehenſible and Unſearchable but he; He is alſo moſt Merciful, moſt Juſt, moſt Holy, <hi>Deut.</hi> 33.27. <hi>Gen.</hi> 17.1. <hi>Pſal.</hi> 145.3. <hi>Mich.</hi> 7.18. <hi>Job</hi> 34.17. 1 <hi>Sam.</hi> 2.2.</p>
+            <p>Q. <hi>Is this God, being a Spirit, to be known?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, and that by his Works of Creation,
+<pb n="7" facs="tcp:104032:4"/> by his Providences, by the Judgments that he executeth, and by his Word.</p>
+            <p>Q. <hi>Do you underſtand him by the Works of Creation?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Heavens declare the Glory of God, and the Firmament ſheweth his handy-work: ſo that the inviſible things of him from the Creation of the World, are clearly ſeen, being underſtood by the things that are made, even his Eternal Power and Godhead, <hi>Pſal.</hi> 19.1, 2. <hi>Rom.</hi> 1.20.</p>
+            <p>Q. <hi>Doth his Works of Providence alſo declare him?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They muſt needs do it, ſince through his Providence the whole Creation is kept in ſuch harmony as it is, and that in deſpite of Sin and Devils: alſo if you conſider that from an Angel to a Sparrow, nothing falls to the ground without the Providence of our Heavenly Fa<g ref="char:EOLhyphen"/>ther, <hi>Mat.</hi> 10.29.</p>
+            <p>Q. <hi>Is he known by his Judgments?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God is known by his Judgments which he executeth; the wicked is ſhared in the work of his own hands, <hi>Pſal.</hi> 9.16.</p>
+            <p>Q. <hi>Is he known by his Word?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, moſt clearly: for by that he reveal<g ref="char:EOLhyphen"/>eth his Attributes, his Decrees, his Promiſes, his way of Worſhip, and how he is to be pleaſed by us.</p>
+            <p>Q. <hi>Of what did God make the World?</hi>
+            </p>
+            <pb n="8" facs="tcp:104032:5"/>
+            <p>
+               <hi>A.</hi> Things that are ſeen, were not made of things that do appear, <hi>Heb.</hi> 11.3.</p>
+            <p>Q. <hi>How long was he in making the World?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In ſix days the Lord made Heaven and Earth, the Sea, and all that is in them, and on the ſeventh day God ended all his works which he had made, <hi>Exod.</hi> 20.11. <hi>Gen.</hi> 2.2.</p>
+            <p>Q. <hi>Of what did God make Man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Lord God formed Man of the duſt of the Ground, and breathed into his noſtrils the breath of Life, and Man became a living ſoul, <hi>Gen.</hi> 2.7.</p>
+            <p>Q. <hi>Why doth it ſay God breathed into him the breath of Life, is Man's Soul of the very nature of the Godhead?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> This doth not teach that the Soul is of the nature of the Godhead, but ſheweth that it is not of the ſame matter as his body, which is duſt, <hi>Gen.</hi> 18.27.</p>
+            <p>Q. <hi>Is not the Soul then of the nature of the Godhead?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, for God cannot ſin, but the Soul doth; God cannot be deſtroyed in Hell, but the Souls of the Impenitent ſhall, <hi>Ezek.</hi> 18.4. <hi>Mat.</hi> 10.28.</p>
+            <p>Q. <hi>How did God make man in the day of his firſt Creation?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God made Man upright. In the Image of God created he him, <hi>Eccl.</hi> 7.29. <hi>Gen.</hi> 1.27.</p>
+            <p>Q. <hi>Did God when he made Man, leave him with<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+            </p>
+            <pb n="9" facs="tcp:104032:5"/>
+            <p>
+               <hi>A.</hi> No: He gave him a Law in his nature, and impoſed upon him a poſitive Precept, but he offered violence to them, and brake them both, <hi>Gen.</hi> 3.3, 6.</p>
+            <p>Q. <hi>What was the due deſert of that Tranſ<g ref="char:EOLhyphen"/>greſſion?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Spiritual death in the day he did it, Tem<g ref="char:EOLhyphen"/>poral Death afterwards, and everlaſting Death laſt of all, <hi>Gen.</hi> 2.17. <hi>chap.</hi> 3.19. <hi>Mat.</hi> 25.46.</p>
+            <p>Q <hi>What is it to be ſpiritually dead?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To be alienate from God, and to live without him in the World, through the Igno<g ref="char:EOLhyphen"/>rance that is in Man, and through the Power of their Sins, <hi>Epheſ.</hi> 4.18, 19.</p>
+            <p>Q. <hi>Wherein doth this alienation from God ap<g ref="char:EOLhyphen"/>pear?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In the love they have to their ſins, in their being loth to come to him, in their plead<g ref="char:EOLhyphen"/>ing idle excuſes for their ſins, and in their ig<g ref="char:EOLhyphen"/>norance of the excellent myſteries of his bleſſed Goſpel, <hi>Epheſ.</hi> 2.2, 3, 11, 12. <hi>Rom.</hi> 1.28. <hi>Epheſ.</hi> 4.18, 19.</p>
+            <p>Q. <hi>What is temporal death?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To have Body and Soul ſeparate aſun<g ref="char:EOLhyphen"/>der, the Body returning to the Duſt as it was, and the Spirit to God that gave it, <hi>Gen.</hi> 3.19. <hi>Eccleſ.</hi> 12.7.</p>
+            <p>Q. <hi>What is Everlaſting Death?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> For Body and Soul to be ſeparate for ever from God, and to be caſt into Hell-fire, <hi>Luk.</hi> 13.</p>
+            <pb n="10" facs="tcp:104032:6"/>
+            <p>Q. <hi>Do Men go Body and Soul to Hell ſo ſoon as they die?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Body abideth in the Grave till the ſound of the laſt Trump; but the Soul, if the Man dies wicked, goes preſently from the face of God into Hell, as into a Priſon, there to be kept till the day of Judgment, 1 <hi>Cor.</hi> 15.52. <hi>Iſa.</hi> 24.22. <hi>Luke</hi> 12.20.</p>
+            <p>Q. <hi>Do we come into the World as upright as did our firſt Parent?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No; He came into the World ſinleſs, be<g ref="char:EOLhyphen"/>ing made ſo of God Almighty; but we came into the World ſinners, being made ſo by his Pollution.</p>
+            <p>Q. <hi>How doth it appear that we came into the World polluted?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> We are the fruit of an unclean thing, are defiled in our very conception, and are by na<g ref="char:EOLhyphen"/>ture the Children of wrath, <hi>Job.</hi> 14.4. <hi>Pſal.</hi> 51.5. <hi>Epheſ.</hi> 2.3.</p>
+            <p>Q. <hi>Can you make further proof of this?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, It is ſaid that by one Man came Sin, Death, Judgment, and Condemnation upon all Men, <hi>Rom.</hi> 5.12, 15, 16, 17, 18, 19.</p>
+            <p>Q. <hi>Do we then come ſinners into the World?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, we are Tranſgreſſors from the Womb, and go aſtray as ſoon as we are born, ſpeaking lies, <hi>Iſa.</hi> 48.8. <hi>Pſal.</hi> 58.3.</p>
+            <p>Q. <hi>But as</hi> Adam <hi>fell with us in him, ſo did he not by faith riſe with us in him? for he had no</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb n="11" facs="tcp:104032:6"/>
+            <p>
+               <hi>A.</hi> He fell as a publick perſon, but believed the Promiſe as a ſingle perſon. <hi>Adam</hi>'s faith ſaved not the World, though <hi>Adam</hi>'s ſin over<g ref="char:EOLhyphen"/>threw it.</p>
+            <p>Q. <hi>But do not ſome hold that we are ſinners only by imitation?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, being themſelves deceived. But God's Word ſaith, we are Children of Wrath by Nature, that is, by Birth and Generation.</p>
+            <p>Q. <hi>Can you bring further proof of this?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes; In that day that we were born, we were polluted in our own Blood, and caſt out to the loathing of our perſons. Again, the Chil<g ref="char:EOLhyphen"/>dren of old that were dedicated unto the Lord, a Sacrifice was offered for them at a month old, which was before they were ſinners by imitati<g ref="char:EOLhyphen"/>on, <hi>Ezek.</hi> 16.4, 5, 6, 7, 8, 9. <hi>Num.</hi> 18.14, 15, 16.</p>
+            <p>Q. <hi>Can you make this appear by experience?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes; The firſt things that bloom and put forth themſelves in Children, ſhew their Igno<g ref="char:EOLhyphen"/>rance of God, their diſobedience to Parents, and their innate enmity to Holineſs of life; their inclinations naturally run to vanity. Beſides, little Children die, but that they could not, were they not of God counted ſinners; for death is the wages of ſin, <hi>Rom.</hi> 6.23.</p>
+            <p>Q. <hi>What is ſin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a tranſgreſſion of the Law, 1 <hi>John</hi> 3.4.</p>
+            <pb n="12" facs="tcp:104032:7"/>
+            <p>Q. <hi>A tranſgreſſion of what Law?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Of the Law of our Nature, and of the Law of the Ten Commandments as written in the holy Scriptures, <hi>Rom.</hi> 2.12, 14, 15. <hi>Exod.</hi> 20.</p>
+            <p>Q. <hi>When doth one ſin againſt the Law of Na<g ref="char:EOLhyphen"/>ture?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> When you do any thing that your Con<g ref="char:EOLhyphen"/>ſcience tells you is a tranſgreſſion againſt God or Man, <hi>Rom.</hi> 2.14, 15.</p>
+            <p>Q. <hi>When do we ſin againſt the Law as written in the ten Commandments?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> When you do any thing that they forbid, although you be ignorant of it, <hi>Pſal.</hi> 19.12.</p>
+            <p>Q. <hi>How many ways are there to ſin againſt this Law?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Three: By ſinful thoughts, by ſinful words, and alſo by ſinful actions, <hi>Rom.</hi> 7.7. <hi>Mat.</hi> 5.28. <hi>chap.</hi> 12.37. <hi>Rom.</hi> 2.6.</p>
+            <p>Q. <hi>What if we ſin againſt but one of the Ten Commandments?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Whoſoever ſhall keep the whole Law, and yet offend in one point, he is guilty of all: for he that ſaid, do not commit adultery, ſaid alſo, do not kill; now if thou commit no adul<g ref="char:EOLhyphen"/>tery, yet if thou kill, thou art a tranſgreſſor of the Law, <hi>Jam.</hi> 2.10, 11.</p>
+            <p>Q. <hi>Where will God puniſh ſinners for their ſins?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Both in this World and in that which is to come, <hi>Gen</hi> 3.24. <hi>chap.</hi> 4.10, 11, 12. <hi>Job</hi> 21.30.</p>
+            <pb n="13" facs="tcp:104032:7"/>
+            <p>Q. <hi>How are Men puniſhed in this World for ſin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Many ways, as with ſickneſs, loſſes, croſſes, diſappointments and the like: ſome<g ref="char:EOLhyphen"/>times alſo God giveth them up to their own hearts luſts, to blindneſs of mind alſo, and hard<g ref="char:EOLhyphen"/>neſs of heart; yea, and ſometimes to ſtrong deluſions that they might believe lies, and be damned, <hi>Lev.</hi> 26.15, 16. <hi>Amos.</hi> 4.7, 10. <hi>Rom.</hi> 1.24, 28. <hi>Exod.</hi> 4.21. <hi>chap.</hi> 9.12, 13, 14. <hi>Zeph.</hi> 1.17. <hi>Rom.</hi> 11.7, 8. 2 <hi>Theſ.</hi> 2.11, 12.</p>
+            <p>Q <hi>How are ſinners puniſhed in the World to come?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> With a Worm that never dies, and with a Fire that never ſhall be quenched, <hi>Mar.</hi> 9.44.</p>
+            <p>Q. <hi>Whither do ſinners go to receive this puniſh<g ref="char:EOLhyphen"/>ment?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The wicked ſhall be turned into Hell, and all the Nations that forget God, <hi>Pſal.</hi> 9.27.</p>
+            <p>Q. <hi>What is Hell?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a place, and a ſtate moſt fearful, <hi>Luk.</hi> 16.28. <hi>Act.</hi> 1.25. <hi>Luk.</hi> 16.21.</p>
+            <p>Q. <hi>Why do you call it a place?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe in Hell ſhall all the damned be confined as in a Priſon, in their chains of dark<g ref="char:EOLhyphen"/>neſs for ever, <hi>Luk.</hi> 12.5, 58. <hi>chap.</hi> 16.26. <hi>Jud.</hi> 6.</p>
+            <p>Q <hi>What a place is Hell?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a dark bottomleſs burning lake of Fire, large enough to hold all that periſh, <hi>Mat.</hi> 22.13. <hi>Rev.</hi> 20.1, 15. <hi>Iſa.</hi> 30.33. <hi>Pro.</hi> 27.20.</p>
+            <pb n="14" facs="tcp:104032:8"/>
+            <p>Q. <hi>What do you mean when you ſay it is a fear<g ref="char:EOLhyphen"/>ful ſtate?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I mean, that it is the lot of thoſe that are caſt in thither to be tormented in moſt fearful manner, to wit, with wrath and fiery indigna<g ref="char:EOLhyphen"/>tion, <hi>Rom.</hi> 2.9. <hi>Heb.</hi> 10.26, 27.</p>
+            <p>Q. <hi>In what parts ſhall they be thus fearfully tor<g ref="char:EOLhyphen"/>mented?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In Body and Soul: for Hell-fire ſhall kin<g ref="char:EOLhyphen"/>dle upon both beyond what now can be thought <hi>Mat.</hi> 10.28. <hi>Luk.</hi> 16.24. <hi>Jam.</hi> 5.3.</p>
+            <p>Q. <hi>How long ſhall they be in this condition?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Theſe ſhall go away into everlaſting puniſhment, and the ſmoak of their torment aſcendeth up for ever and ever, and they have no reſt day nor night; for they ſhall be puniſh<g ref="char:EOLhyphen"/>ed with everlaſting deſtruction from the pre<g ref="char:EOLhyphen"/>ſence of the Lord, and from the glory of his Power, <hi>Mat.</hi> 25.46. <hi>Rev.</hi> 14.11. 2 <hi>Theſ.</hi> 1.9.</p>
+            <p>Q. <hi>But why might not the ungodly be puniſhed with this puniſhment in this world, that we might have ſeen it and believe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> If the ungodly ſhould with puniſhment have been rewarded in this World, it would in all probability have overthrown the whole or<g ref="char:EOLhyphen"/>der that God hath ſettled here among Men. For who could have endured here to have ſeen the flames of Fire, to have heard the groans, and to have ſeen the tears perhaps of damned relations, as Parents or Children. Therefore
+<pb n="15" facs="tcp:104032:8"/> as Tophet of old was without the City, and as the Gallows and Gibbets are builded without the Towns; ſo Chriſt hath ordered that they who are to be puniſhed with this kind of Tor<g ref="char:EOLhyphen"/>ment, ſhall be taken away; <hi>Take hm away,</hi> ſaith he (out of this World) <hi>and caſt him into utter darkneſs</hi> and let him have his puniſhment there) <hi>there ſhall be weeping and gnaſhing of teeth.</hi> Be<g ref="char:EOLhyphen"/>ſides, Faith is not to be wrought by looking into Hell, and ſeeing the damned tormented before our Eyes; but by hearing the Word of God: for he that ſhall not believe <hi>Moſes</hi> and the Pro<g ref="char:EOLhyphen"/>phets, will not be perſwaded ſhould one come from the dead; yea ſhould one come to them in flames to perſwade them, <hi>Mat.</hi> 22.13. <hi>Rom.</hi> 10.17. <hi>Luk.</hi> 16.27, 28, 29, 30, 31.</p>
+            <p>Q. <hi>Are there degrees of torment in Hell?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, for God will reward every one ac<g ref="char:EOLhyphen"/>cording to their works: Wo to the wicked it ſhall go ill with him, for the reward of his hands ſhall be given him, <hi>Iſa.</hi> 3.11.</p>
+            <p>Q. <hi>Who are like to be moſt puniſhed there, Men or Children?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The puniſhment in Hell comes not upon ſinners, according to age, but ſin: ſo that whe<g ref="char:EOLhyphen"/>ther they be Men or Children, the greater ſin, the greater puniſhment; for there is no reſpect of perſons with God, <hi>Rom.</hi> 2.11.</p>
+            <p>Q. <hi>How do you diſtinguiſh between great ſins, and little ones?</hi>
+            </p>
+            <pb n="16" facs="tcp:104032:9"/>
+            <p>
+               <hi>A.</hi> By their Nature, and by the Circumſtances that attend them.</p>
+            <p>Q. <hi>What do you mean by their Nature?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I mean when they are very groſs in them<g ref="char:EOLhyphen"/>ſelves, 2 <hi>Chron.</hi> 33.2. <hi>Ezek.</hi> 16.42.</p>
+            <p>Q. <hi>What kind of ſins are the greateſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Adultery, Fornication, Murder, Theft, Swearing, Lying, Covetouſneſs, Witchcraft, Sedition, Hereſies, or any the like, 1 <hi>Cor.</hi> 6.9, 10. <hi>Epheſ.</hi> 5.3, 4, 5, 6. <hi>Col.</hi> 3.5, 6. <hi>Gal.</hi> 5.19, 20, 21. <hi>Rev.</hi> 21.8.</p>
+            <p>Q. <hi>What do you mean by Circumſtances that at<g ref="char:EOLhyphen"/>tend ſin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I mean Light, Knowledg, the Preaching of the Word, Godly Acquaintance, timely Cau<g ref="char:EOLhyphen"/>tions, <hi>&amp;c.</hi>
+            </p>
+            <p>Q. <hi>Will theſe make an alteration in the ſin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Theſe things attending ſinners, will make little ſins great, yea greater than greater ſins that are commited in groſſeſt Ignorance.</p>
+            <p>Q. <hi>How do you prove that?</hi>
+            </p>
+            <p>
+               <hi>A. Sodom</hi> and <hi>Gomorrah</hi> wallowed in all, or moſt of thoſe groſs Tranſgreſſions above-menti<g ref="char:EOLhyphen"/>oned: yea, they were ſaid to be ſinners exceed<g ref="char:EOLhyphen"/>ingly, they lived in ſuch ſins as may not be ſpo<g ref="char:EOLhyphen"/>ken of without bluſhing, and yet God ſwears that <hi>Iſrael,</hi> his Church, had done worſe than they; and the Lord Jeſus alſo ſeconds it in that Threatning of his, I ſay unto you, that it ſhall be more tolerable in that day for <hi>Sodom</hi> than
+<pb n="17" facs="tcp:104032:9"/> for thee, <hi>Ezek.</hi> 16.48. <hi>Mat.</hi> 11.24. <hi>Luk.</hi> 10.12.</p>
+            <p>Q. <hi>And was this the reaſon, namely, becauſe they had ſuch circumſtances attending them as</hi> Sodom <hi>had not?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, as will plainly appear, if you read the three Chapters above mentioned.</p>
+            <p>Q. <hi>When do I ſin againſt Light and Know<g ref="char:EOLhyphen"/>ledg?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> When you ſin againſt convictions of Conſcience, when you ſin againſt a known Law of God, when you ſin againſt Counſels and diſ<g ref="char:EOLhyphen"/>ſwaſion of Friends, then you ſin againſt Light and Knowledg, <hi>Rom.</hi> 1.32.</p>
+            <p>Q. <hi>When do I ſin againſt Preaching of the Word?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> When you refuſe to hear God's Miniſters, or hearing them, refuſe to follow their whol<g ref="char:EOLhyphen"/>ſome Doctrine, 2 <hi>Chron</hi> 36.16. <hi>Jer.</hi> 25.4, 7. <hi>chap.</hi> 35.15.</p>
+            <p>Q. <hi>When elſe do I ſin againſt the Preaching of the Word?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> When you mock, or deſpiſe or reproach the Miniſters; alſo when you raiſe lies and ſcandals of them, or receive ſuch lies or ſcandals raiſed: you then alſo ſin againſt the preaching of the Word, when you Perſecute them that Preach it, or are ſecretly glad to ſee them ſo uſed, 2 <hi>Chron.</hi> 30.1, 10. <hi>Rom.</hi> 3.8. <hi>Jer.</hi> 20.10. 1 <hi>Theſ.</hi> 2.15, 16.</p>
+            <p>Q. <hi>How will godly acquaintance greaten my ſin?</hi>
+            </p>
+            <pb n="18" facs="tcp:104032:10"/>
+            <p>
+               <hi>A.</hi> When you ſin againſt their Counſels, Warnings, or Perſwaſions to the contrary; al<g ref="char:EOLhyphen"/>ſo when their lives and converſations are re<g ref="char:EOLhyphen"/>proof to you, and yet againſt all you will ſin. Thus ſinned <hi>Iſhmael, Eſau, Eli's</hi> ſons, <hi>Abſolom</hi> and <hi>Judas,</hi> they had good Company, good Counſels, and a good life ſet before them by their god<g ref="char:EOLhyphen"/>ly Acquaintance, but they ſinned againſt all, and their Judgment was the greater. <hi>Iſhmael</hi> was caſt away, <hi>Eſau</hi> hated, <hi>Eli's</hi> ſons died ſudden<g ref="char:EOLhyphen"/>ly, <hi>Abſolom</hi> and <hi>Judas</hi> were both ſtrangely hang<g ref="char:EOLhyphen"/>ed; <hi>Gen.</hi> 21.10. <hi>Gal.</hi> 4.30. <hi>Mal.</hi> 1.2. 1 <hi>Sam.</hi> 2.20, 25. 2 <hi>Sam.</hi> 16.</p>
+            <p>Q. <hi>Are ſins thus heightned, diſtinguiſhed from others by any ſpecial name?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes; they are called Rebellion, and are compared to the ſin of Witchcraft; they are called wilful ſin, they are called Briers and Thorns, and they that bring them forth are nigh unto Curſing, whoſe end is to be burned, 1 <hi>Sam.</hi> 15.23. <hi>Heb.</hi> 10.26. <hi>chap</hi> 6.7, 8.</p>
+            <p>Q. <hi>Are there any other things that can make lit<g ref="char:EOLhyphen"/>tle ſins great ones?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes; As when you ſin againſt the Judgments of God: As for example, you ſee the Judgments of God come upon ſome for their tranſgreſſions, and you go on in their iniquities: alſo when you ſin againſt the Pa<g ref="char:EOLhyphen"/>tience, Long-ſuffering, and Forbearance of God, this will make little ſins great ones, <hi>Dan.</hi> 5.</p>
+            <pb n="19" facs="tcp:104032:10"/>
+            <p>Q. <hi>Did ever God puniſh little Children for ſin againſt him?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes: When the Flood came, he drowned all the little Children that were in the old World; he alſo burned up all the little Chil<g ref="char:EOLhyphen"/>dren which were in <hi>Sodom:</hi> and becauſe upon a time the little Children at <hi>Bethel</hi> mocked the Prophet as he was a-going to worſhip God, God let looſe two ſhe-Bears upon them which tore forty and two of them to pieces, 2 <hi>King.</hi> 2.22, 23.</p>
+            <p>Q. <hi>Alas! What ſhall we little Children do?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Either go on in your ſins: or remember now your Creator in the days of your Youth, be<g ref="char:EOLhyphen"/>fore the evil dayes come, <hi>Eccleſ.</hi> 12.1.</p>
+            <p>Q. <hi>Why do you mock us, to bid us go on in our ſins? you had need pray for us that God would ſave us.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I do not mock you, but as the wiſe-man doth; and beſides I pray for you and wiſh your Salvation.</p>
+            <p>Q. <hi>How doth the wiſe-man mock us?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Thus; Rejoice, O young man, in thy Youth, and let thy heart chear thee in the days of thy Youth, and walk in the ways of thy heart, and in the ſight of thine Eyes; but know thou, that for all theſe things God will bring thee to Judgment, <hi>Eccleſ.</hi> 11.9.</p>
+            <p>Q. <hi>What a kind of mocking is this?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Such an one, as is mixed with the grea<g ref="char:EOLhyphen"/>teſt
+<pb n="20" facs="tcp:104032:11"/> ſeriouſneſs; as if he ſhould ſay, I, do, ſinners, go on in your ſins if you dare; do, live in your vanities, but God will have a time to judg you for them.</p>
+            <p>Q. <hi>Is not this juſt as when my Father bids me be naught if I will, but if I be naught, he will beat me for it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes; or like that ſaying of <hi>Joſhua,</hi> If it ſeem evil to you to ſerve the Lord, chuſe you this day whom you will ſerve; ſerve your ſins at your peril, <hi>Joſh.</hi> 24.15.</p>
+            <p>Q. <hi>Is it not beſt then for me to ſerve God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes; for they that ſerve the Devil muſt be where he is, and they that ſerve God and Chriſt, muſt be where they are, <hi>Joh.</hi> 12.16. <hi>Mat.</hi> 25.41.</p>
+            <p>Q. <hi>But when had I beſt begin to ſerve God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Juſt now: Remember <hi>now</hi> thy Creator, <hi>now</hi> thou haſt the Goſpel before thee, <hi>now</hi> thy heart is tender and will be ſooneſt broken.</p>
+            <p>Q. <hi>But if I follow my play and ſports a little longer, may I not come time enough?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I cannot promiſe thee that, for there be little Graves in the Church-yard; and who can tell but that thy young life is ſhort: or if thou doſt live, perhaps thy day of Grace may be as ſhort, as was <hi>Iſhmael's</hi> of old: read alſo, <hi>Prov.</hi> 1.24, 25, 26.</p>
+            <p>Q. <hi>But if I ſtay a little longer before I turn, I may have more wit to ſerve God than now I have,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb n="21" facs="tcp:104032:11"/>
+            <p>
+               <hi>A.</hi> If thou ſtayeſt longer, thou wilt have more ſin, and perhaps leſs wit: for the bigger ſinner, the bigger fool, <hi>Prov.</hi> 1.22.</p>
+            <p>Q. <hi>If I ſerve God ſometimes and my ſins ſome<g ref="char:EOLhyphen"/>times, how then?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No Man can ſerve two Maſters: Thou canſt not ſerve God and thy Sins. God ſaith, My Son, give me thy heart. Alſo thy Soul and Body are his; but the double minded Man is forbidden to think that he ſhall receive any thing of the Lord, <hi>Mat.</hi> 6.24. <hi>Prov.</hi> 23.26. 1 <hi>Cor.</hi> 6.20. <hi>Jam.</hi> 1.7, 8.</p>
+            <p>Q. <hi>Do you find many ſuch little Children as I am ſerve God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Not many; yet ſome I do, <hi>Samuel</hi> ſerved him being a Child; when <hi>Joſias</hi> was young he began to ſeek after the God of his Father <hi>Da<g ref="char:EOLhyphen"/>vid:</hi> And how kindly did our Lord Jeſus take it, to ſee the little Children run tripping before him, and crying <hi>Hoſannah</hi> to the Son of David! 1 <hi>Sam.</hi> 3.1. 2 <hi>Chron.</hi> 34.3. <hi>Mat.</hi> 21.15, 16.</p>
+            <p>Q. <hi>Then I am not like to have many Compani<g ref="char:EOLhyphen"/>ons, if I thus young begin to ſerve God, am I?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Strait is the gate, and narrow is the way that leadeth unto life, and few there be that find it. Yet ſome Companions thou wilt have <hi>David</hi> counted himſelf a Companion of all them that love God's Teſtimonies; all the Godly, though Gray-headed, will be thy Companions; yea, and thou ſhalt have either one or more of
+<pb n="22" facs="tcp:104032:12"/> the Angels of God in Heaven to attend on, and miniſter for thee, <hi>Mat.</hi> 7.13, 14. <hi>Pſal.</hi> 119.63. <hi>Mat.</hi> 18.10.</p>
+            <p>Q. <hi>But I am like to be ſlighted, and deſpiſed by other little Children if I begin already to ſerve God, am I not?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> If Children be ſo rude as to mock the Prophets and Miniſters of God, no marvel if they alſo mock thee: but it is a poor Heaven that is not worth enduring worſe things than to be mocked for the ſeeking and obtaining of, 2 <hi>Kings</hi> 2.23, 24.</p>
+            <p>Q. <hi>But how ſhould I ſerve God? I do not know how to worſhip him.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The true Worſhippers, worſhip God in Spirit and Truth, <hi>Joh.</hi> 4.24. <hi>Phil.</hi> 3.3.</p>
+            <p>Q. <hi>What is meant by worſhipping him in the Spirit?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To worſhip him in God's Spirit and in mine own; that is, to worſhip him, being wrought over in my very heart by the good Spirit of God, to an hearty Compliance with his will, <hi>Rom.</hi> 1.9. <hi>Chap.</hi> 6.17. <hi>Pſal.</hi> 101.3.</p>
+            <p>Q. <hi>What is it to worſhip him in truth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To do all that we do in his Worſhip ac<g ref="char:EOLhyphen"/>cording to his Word, for his Word is truth, and to do it without diſſimulation. <hi>Heb.</hi> 8.5. <hi>Joh.</hi> 17.17. <hi>Pſal.</hi> 26.6. <hi>Pſal.</hi> 118.19, 20.</p>
+            <p>You may take the whole thus; Then do you worſhip God a-right, when in heart, and life, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb n="23" facs="tcp:104032:12"/>
+            <p>Q. <hi>How muſt I do to worſhip him with my ſpi<g ref="char:EOLhyphen"/>rit and heart?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Thou muſt firſt get the good knowledg of him. And thou <hi>Solomon</hi> my Son, ſaid <hi>David, Know</hi> thou the God of thy Fathers, and ſerve him with a perfect heart. Mind you, he firſt bids <hi>know</hi> him, and then <hi>ſerve</hi> him with a per<g ref="char:EOLhyphen"/>fect heart, 1 <hi>Chron.</hi> 28.9.</p>
+            <p>Q. <hi>Is it eaſie to get a true knowledg of God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No; Thou muſt cry after Knowledg, and lift up thy voice for Underſtanding. If thou ſeekeſt for her as Silver, and ſearcheſt for her as for hid treaſure, then ſhalt thou underſtand the fear of the Lord, and find the knowledg of God, <hi>Pro.</hi> 2.1, 2, 3, 4, 5.</p>
+            <p>Q. <hi>How comes it to be ſo difficult a thing to at<g ref="char:EOLhyphen"/>tain the true Knowledg of God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By reaſon of the pride and ignorance that is in us, as alſo by reaſon of our wicked ways, <hi>Pſal.</hi> 10.4. <hi>Eph.</hi> 4 18, 19. <hi>Tit.</hi> 1.16.</p>
+            <p>Q. <hi>But do not every one profeſs they know God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes; But their ſuppoſed knowledg of him varieth as much as doth their faces or com<g ref="char:EOLhyphen"/>plexions, ſome thinking he is this, and ſome that.</p>
+            <p>Q. <hi>Will you ſhew me a little how they vary in their thoughts about him.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes; Some count him a kind of an heart<g ref="char:EOLhyphen"/>leſs God, that will neither do evil nor good; ſome count him a kind of an ignorant and blind
+<pb n="24" facs="tcp:104032:13"/> God, that can neither know nor ſee through the Clouds; ſome again count him an inconſidera<g ref="char:EOLhyphen"/>ble God, not worth the injoying, if it muſt not be but with the loſs of this World, and their Luſts. Moreover, ſome think him to be altoge<g ref="char:EOLhyphen"/>ther ſuch an one as themſelves, one that hath as little hatred to ſin as themſelves, and as little love to holineſs as themſelves, <hi>Zeph.</hi> 1.12. <hi>Job</hi> 22.12, 13. <hi>chap.</hi> 21.9, 10, 11, 12, 13, 14, 15. <hi>Pſal.</hi> 50.21.</p>
+            <p>Q. <hi>Are there any more falſe Opinions of God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes; There are three other falſe opinions of God. 1. Some think he is all Mercy and no Juſtice, and that therefore they may live as they liſt. 2. Others think he is all Juſtice and no Mercy, and that therefore they had as good go on in their ſins and be damned, as turn and be never the better. 3. Others think he is both Juſtice and Mercy, but yet think alſo, that his Juſtice is ſuch as they can pacifie with their own good works, and ſave themſelves with their own right hand, (<hi>Rom.</hi> 3.8. <hi>Jer.</hi> 2.25. <hi>Job</hi> 40.14.) contrary to theſe Scriptures, <hi>Hab.</hi> 1.13. <hi>Iſa.</hi> 45.21.</p>
+            <p>Q. <hi>How then ſhall I know when I have the true Knowledg of God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> When thy Knowledg of him and the holy Scriptures agree.</p>
+            <p>Q. <hi>The Scriptures! do not all falſe Opinions of him, flow from the Scriptures?</hi>
+            </p>
+            <pb n="25" facs="tcp:104032:13"/>
+            <p>
+               <hi>A.</hi> No in no wiſe; 'tis true, Men father their errors upon the Scriptures, when indeed they flow from the ignorance of their hearts, <hi>Epheſ.</hi> 4.18.</p>
+            <p>Q. <hi>But how if I do not underſtand the holy Bible, muſt I then go without the true knowledg of God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> His Name is manifeſted by his World; the Scriptures are they that teſtifie of him, and they are able to make the Man of God perfect in all things, and wiſe unto Salvation, through Faith in Jeſus Chriſt, <hi>John</hi> 17.6, 7, 8. <hi>John</hi> 5.39. 2 <hi>Tim.</hi> 3.15, 16.</p>
+            <p>Q. <hi>But what muſt one that knoweth not God do, to get the knowledg of God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Let him apply his heart unto the Scrip<g ref="char:EOLhyphen"/>tures, as unto a light that ſhineth in a dark place (even this World) until the day dawn, and the day-Star ariſe in his heart, <hi>E<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> 22.7. <hi>chap.</hi> 23.12. 2 <hi>Pet.</hi> 1.19, 20.</p>
+            <p>Q <hi>But how ſhall I know when I have found by the Scriptures, the true knowledg of God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> When thou haſt alſo found the true know<g ref="char:EOLhyphen"/>ledg of thy ſelf, <hi>Iſa.</hi> 6.5. <hi>Job.</hi> 42.5.</p>
+            <p>Q. <hi>What is it for me to know my ſelf?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Then thou knoweſt thy ſelf, when thou art in thine own eyes, a lothſome, polluted, wretched, miſerable Sinner, and that not any thing done by thee, can pacifie God unto thee, <hi>Job</hi> 42.5. <hi>Ezek.</hi> 20.43, 44. <hi>Rom.</hi> 7.24.</p>
+            <div type="part">
+               <pb n="26" facs="tcp:104032:14"/>
+               <head>Of Confeſſion of Sin.</head>
+               <p>Queſt. <hi>YOu have ſhewed me, if I will in<g ref="char:EOLhyphen"/>deed worſhip God, I muſt firſt know him aright, now then to the queſtion in hand, pray how muſt I worſhip him?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In confeſſing unto him, <hi>Nehem.</hi> 9.1, 2, 3.</p>
+               <p>Q. <hi>What muſt I confeſs?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thou muſt confeſs thy tranſgreſſions unto the Lord, <hi>Pſal.</hi> 32.5.</p>
+               <p>Q. <hi>Was this the way of the godly of old?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; <hi>Nehemiah</hi> confeſſed his ſins, <hi>David</hi> confeſſed his ſins, <hi>Daniel</hi> confeſſed his ſins, and they that were Baptized by <hi>John</hi> in <hi>Jordan,</hi> con<g ref="char:EOLhyphen"/>feſſed their ſins, <hi>Nehem.</hi> 1.6. <hi>Pſal.</hi> 32.5. <hi>Dan.</hi> 9.4. <hi>Mat.</hi> 3.6.</p>
+               <p>Q. <hi>What ſins muſt I confeſs to God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> All ſins whatſoever; for he that cover<g ref="char:EOLhyphen"/>eth his ſins ſhall not proſper, but whoſo confeſ<g ref="char:EOLhyphen"/>ſeth and forſaketh them ſhall find Mercy, <hi>Pro.</hi> 28.13. 1 <hi>John</hi> 1.9.</p>
+               <p>Q. <hi>But how if I do neither know, nor remem<g ref="char:EOLhyphen"/>ber all my ſins?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thou muſt then ſearch and try thy ways by the holy Word of God, <hi>Lam.</hi> 3.40. <hi>Pſal.</hi> 77.6.</p>
+               <p>Q. <hi>But how if I do not make this ſearch after my ſins?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> If thou doſt not, God will: if thou doſt not ſearch them out and confeſs them, God will
+<pb n="27" facs="tcp:104032:14"/> ſearch them out and charge them upon thee, and tear thee in pieces for them, <hi>Pſal.</hi> 50.21, 22.</p>
+               <p>Q. <hi>Where muſt I begin to confeſs my ſins?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Where God beginneth to ſhew thee them: Obſerve then where God beginneth with con<g ref="char:EOLhyphen"/>viction for ſin, and there begin thou with con<g ref="char:EOLhyphen"/>feſſion of it. Thus <hi>David</hi> began to confeſs, thus <hi>Daniel</hi> began to confeſs, 2 <hi>Sam.</hi> 12.7, 8, 9, 10, 11, 12, 13. <hi>Dan.</hi> 9.3, 4, 5, 6, 7, 8.</p>
+               <p>Q. <hi>What muſt I do, when God hath ſhewed me any ſin, to make right Confeſſion thereof?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thou muſt follow that Conviction, un<g ref="char:EOLhyphen"/>til it ſhall bring thee to the Original and Foun<g ref="char:EOLhyphen"/>tain of that ſin, which is thine own heart, 1 <hi>King.</hi> 8.38. <hi>Pſal.</hi> 51.5.</p>
+               <p>Q. <hi>Is my heart, then, the Fountain and Ori<g ref="char:EOLhyphen"/>ginal of ſin?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes: For from within out of the heart of Man proceedeth evil thoughts, Adulteries, Forni<g ref="char:EOLhyphen"/>cations, Murders, Thifts, Covetouſneſs, Wickedneſs, Deceit, Laſciviouſneſs, an evil Eye, Blaſphemy, Pride, Fooliſhneſs. All theſe evil things come from within, and defile the Man, <hi>Mar.</hi> 7.21, 22, 23.</p>
+               <p>Q. <hi>When a Man ſees this, what will he think of himſelf?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Then he will not only think, but con<g ref="char:EOLhyphen"/>clude, that he is an unclean thing that his heart hath deceived him, that it is moſt deſperate and wicked, that it may not be truſted by any means,
+<pb n="28" facs="tcp:104032:15"/> that every imagination and thought of his heart (naturally) is only evil, and that continually, <hi>Iſa.</hi> 64.6. <hi>Prov.</hi> 28.26. <hi>Iſa.</hi> 44.20. <hi>Gen.</hi> 6.5.</p>
+               <p>Q. <hi>You have given me a very bad character of the heart, but how ſhall I know that it is ſo bad as you count it?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Both by the Text, and by Experience.</p>
+               <p>Q. <hi>What do you mean by Experience?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Keep thine eyes upon thy heart, and alſo upon Gods Word, and thou ſhalt ſee, with thine own eyes, the deſperate wickedneſs that is in thine heart, for thou muſt know Sin by the Law, that bidding thee do one thing, and thy heart inclining to another, <hi>Rom.</hi> 7.7, 8.9.</p>
+               <p>Q. <hi>May I thus, then, know my heart?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; that is, ſomething of it, ſpecially the Carnality of thy mind, becauſe the carnal mind is enmity againſt God; for it is not ſub<g ref="char:EOLhyphen"/>ject to the Law of God, neither indeed can be, <hi>Rom.</hi> 8.7.</p>
+               <p>Q. <hi>Can you particularize ſome few things wherein the wickedneſs of the heart of man ſhews it ſelf.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; by its ſecret hankering after ſin, although the Word forbids it: by its deferring of Repentance; by its being weary of holy Du<g ref="char:EOLhyphen"/>ties; by its aptneſs to forget God; by its ſtu<g ref="char:EOLhyphen"/>dying to leſſen and hide Sin; by its feigning it ſelf to be better than it is, by being glad when it can ſin without being ſeen of Men; by its
+<pb n="29" facs="tcp:104032:15"/> hardening it ſelf againſt the Threatnings and Judgments of God; by its deſperate inclinings to Unbeleif, Atheiſm, and the like, <hi>Pro.</hi> 1.24, 25, 26. <hi>Iſa.</hi> 43.22. <hi>Mal.</hi> 1.12, 13. <hi>Judg.</hi> 3.7. <hi>Jer.</hi> 2.32. <hi>Pſal.</hi> 106.21. <hi>Hoſ.</hi> 2.13. <hi>Pro.</hi> 30.20. <hi>Jer.</hi> 2.25. <hi>Rom.</hi> 1.32. <hi>chap.</hi> 2.5. <hi>Zeph.</hi> 7.11, 12, 13.</p>
+               <p>Q. <hi>Is there any thing elſe to be done in order to a right confeſſion of ſin?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; Let this Conviction ſink down into thy heart, that God ſees much more wick<g ref="char:EOLhyphen"/>edneſs in thee than thou canſt ſee in thy ſelf. <hi>If thy heart condemn thee, God is greater than thy heart, and he knows all things;</hi> beſides, be hath ſet thy ſecret ſins in the light of his Counte<g ref="char:EOLhyphen"/>nance, 1 <hi>Joh.</hi> 3.20. <hi>Pſal.</hi> 90.8.</p>
+               <p>Q. <hi>Is there any thing elſe that muſt go to a right confeſſion of ſin?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; In thy confeſſions thou muſt grea<g ref="char:EOLhyphen"/>ten and aggravate thy ſin by all juſt circum<g ref="char:EOLhyphen"/>ſtances.</p>
+               <p>Q. <hi>How muſt I do that?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By conſidering againſt how much Light and Mercy thou haſt ſinned, againſt how much Patience, and Forbearance, thou haſt ſinned; alſo againſt what Warnings and Judgments thou haſt ſinned; and againſt how many of thine own Vows, Promiſes, and Ingagements, thou haſt ſinned: theſe things heighten and ag<g ref="char:EOLhyphen"/>gravate ſin, <hi>Ezra</hi> 9.10, 11, 12, 13, 14, 15.</p>
+               <p>Q. <hi>But what need I confeſs my ſins to God, ſee<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </p>
+               <pb n="30" facs="tcp:104032:16"/>
+               <p>
+                  <hi>A.</hi> Confeſſion of ſin is neceſſary, for many Reaſons.</p>
+               <p>Q. <hi>Will you ſhew me ſome of thoſe Reaſons?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; One is, by a ſincere and hearty Confeſſion of ſin, thou acknowledgeſt God to be thy Sovereign Lord, and that he hath right to impoſe his Law upon thee, <hi>Exod.</hi> 20.</p>
+               <p>Q. <hi>Can you ſhew me another Reaſon?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; By confeſſing thy ſin, thou ſub<g ref="char:EOLhyphen"/>ſcribeſt to his righteous Judgments that are pro<g ref="char:EOLhyphen"/>nounced againſt it, <hi>Pſal.</hi> 51.3, 4.</p>
+               <p>Q. <hi>Can you ſhew me another Reaſon?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; By confeſſion of ſin, thou ſheweſt how little thou deſerveſt the leaſt Mercy from God.</p>
+               <p>Q. <hi>Have you yet another reaſon why I ſhould confeſs my ſins?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; By ſo doing thou ſheweſt whether thy heart loves it, or hates it: He that heartily confeſſeth his Sin, is like him who having a Thief or a Traitor in his houſe, brings him out to condign puniſhment; but he that forbears to confeſs, is like him who hideth a Thief or Traitor, againſt the Laws and Peace of our Lord the King.</p>
+               <p>Q. <hi>Give me one more reaſon why I ſhould con<g ref="char:EOLhyphen"/>feſs my ſins to God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He that confeſſeth his ſin, caſteth him<g ref="char:EOLhyphen"/>ſelf at the feet of Gods Mercy, utterly condemns and caſts away his own righteouſneſs, conclu<g ref="char:EOLhyphen"/>deth
+<pb n="31" facs="tcp:104032:16"/> there is no way to ſtand Juſt and acquit before God, but by and through the righteouſ<g ref="char:EOLhyphen"/>neſs of another; whither God is reſolved to bring thee, if ever he ſaves thy Soul, <hi>Pſal.</hi> 51.1, 2, 3. 1 <hi>Joh.</hi> 1.9. <hi>Phil.</hi> 3.6, 7, 8.</p>
+               <p>Q. <hi>What frame of heart ſhould I be in when I confeſs my ſins?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Do it <hi>heartily,</hi> and to the beſt of thy power, <hi>thoroughly.</hi> For to feign, in this work, is abominable; to do it by the halves, is wicked<g ref="char:EOLhyphen"/>neſs; to do it without ſence of Sin, cannot be acceptable; and to confeſs it with the mouth, and to love it with the heart, is a lying unto God, and a provocation of the eyes of his Glory.</p>
+               <p>Q. <hi>What do you mean by feigning and diſſem<g ref="char:EOLhyphen"/>bling in this work?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> When men confeſs it, yet know not what it is; or if they think they know it, do not con<g ref="char:EOLhyphen"/>clude it ſo bad as it is; or when men ask pardon of God, but do not ſee their need of pardon; this man muſt needs diſſemble.</p>
+               <p>Q. <hi>What do you mean by doing it by the halves?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> When men confeſs ſome, but not all that they are convinced of; or if they confeſs all, yet labour in their Confeſſion to leſſen it; or when in their Confeſſion they turn not from all Sin to God, but from one Sin to another. They turned, but not to the moſt high, none of them did exalt him, <hi>Prov.</hi> 28.13. <hi>Job</hi> 31.33. <hi>Jam</hi>
+               </p>
+               <pb n="32" facs="tcp:104032:17"/>
+               <p>Q. <hi>What is it to confeſs Sin without ſence of Sin?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To do it through Cuſtom, or Tradition, when there is not guilt upon the Conſcience, now this cannot be acceptable.</p>
+               <p>Q. <hi>What is it to confeſs it with the mouth, and to love it with the heart?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> When men condemn it with their mouth, but refuſe to let it go; when with their mouth they ſhew much love, but their heart goeth af<g ref="char:EOLhyphen"/>ter their Covetouſneſs, <hi>Job</hi> 20.12, 13. <hi>Jer.</hi> 8.5. <hi>Ezek.</hi> 33.31.</p>
+               <p>Q. <hi>But I asked you, what frame of heart I ſhould be in, in my Confeſſions?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I have ſhewed you how you ſhould not be. Well, I will ſhew you now what frame of heart becomes you in your Confeſſions of Sin. Labour by all means for a ſence of the evil that is in Sin.</p>
+               <p>Q. <hi>What evil is there in Sin?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No man with Tongue can expreſs what may by the Heart be felt of the evil of Sin; but this know, it diſhonoureth God, it provoketh him to wrath, it damneth the Soul, <hi>Rom.</hi> 2.23. <hi>Epheſ.</hi> 5.5, 6. 2 <hi>Theſ.</hi> 2.12.</p>
+               <p>Q. <hi>What elſe would you adviſe me to in this great work?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> When we confeſs ſin, tears, ſhame, and brokenneſs of heart becomes us, <hi>Jer.</hi> 50.4. <hi>Iſa.</hi> 22.12. <hi>Pſal.</hi> 51.17. <hi>Jer.</hi> 31.19.</p>
+               <p>Q. <hi>What elſe becomes me in my Confeſſions of</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <pb facs="tcp:104032:17"/>
+               <p>
+                  <hi>A.</hi> Great deteſtation of ſin, with unfeigned Sighs and Groans, that expreſſeth thou doſt it heartily, <hi>Job</hi> 42.5, 6. <hi>Ezek.</hi> 9.4. <hi>Jer.</hi> 31.9.</p>
+               <p>Q. <hi>Is here all?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No; Tremble at the Word of God; Trem<g ref="char:EOLhyphen"/>ble at every Judgment, leſt it overtake thee; Tremble at every promiſe, leſt thou ſhouldeſt miſs thereof: for, ſaith God, <hi>To this man will I look even to him that is poor, and of a contrite Spi<g ref="char:EOLhyphen"/>rit, and that trembles at my Word,</hi> Iſa. 66.2. Heb. 4.1, 2.</p>
+               <p>Q. <hi>What if I cannot thus confeſs my Sins?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Bewail the hardneſs of thy heart, keep cloſe to the beſt Preachers, remember that thou hangeſt over Hell, <hi>by the weak thread of an un<g ref="char:EOLhyphen"/>certain life.</hi> And know, God counts it a great evil, not to be aſhamed of, not to bluſh at ſin, <hi>Iſa.</hi> 63.17. <hi>Jer.</hi> 6.15. <hi>Chap.</hi> 8.12.</p>
+               <p>Q. <hi>Is there no thanks to be rendred to God in Confeſſions?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> O, Yes; Thank him that he hath let thee ſee thy ſins, thank him that he hath given thee time to acknowledg thy ſins, thou mighteſt now have been confeſſing in Hell: thank him al<g ref="char:EOLhyphen"/>ſo that he hath ſo far condeſcended as to hear the ſelf-bemoaning ſinner, and that he hath pro<g ref="char:EOLhyphen"/>miſed, <hi>Surely to have Mercy upon ſuch,</hi> Jer. 31.18, 19, 20.</p>
+            </div>
+            <div type="part">
+               <pb n="34" facs="tcp:104032:18"/>
+               <head>Of Faith in Christ.</head>
+               <p>Queſt. I <hi>Am glad that you have inſtructed me into this part of the worſhip of God, pray tell me alſo how elſe I ſhould worſhip him?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thou muſt believe his Word.</p>
+               <p>Q. <hi>Is that worſhipping of God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; after the way which ye call hereſy, ſo worſhip I the God of my Fathers, believing all things that are written in the Law, and the Prophets, &amp;c. <hi>Acts</hi> 24.14.</p>
+               <p>Q. <hi>Why ſhould believing be counted a part of Gods worſhip?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe without faith 'tis impoſſible to pleaſe him, <hi>Heb.</hi> 11.6.</p>
+               <p>Q. <hi>Why not impoſſible to pleaſe him without believing?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe in all true Worſhip, <hi>a man muſt believe that God is, and that he is a rewarder of them that diligently ſeek him.</hi> Beſides he that worſhips God muſt alſo of neceſſity believe his Word, elſe he cannot worſhip with that reve<g ref="char:EOLhyphen"/>rence and fear that becomes him, but will do it in a ſuperſtitious prophane manner: for whatſoever is not of Faith is ſin, <hi>Rom.</hi> 14.23.</p>
+               <p>Q. <hi>But do not all believe as you have ſaid?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That which is born of the fleſh is fleſh, and that which is born of the Spirit is Spirit. And again, the Children of the fleſh, theſe are
+<pb n="35" facs="tcp:104032:18"/> not the Children of God, but the Children of the promiſe are counted for the Seed, <hi>Joh.</hi> 3.6. <hi>Rom.</hi> 9.8.</p>
+               <p>Q. <hi>What do you mean by that?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thou muſt be born twice before thou canſt truely believe once, <hi>Joh.</hi> 3.3, 5.</p>
+               <p>Q. <hi>How do you prove that?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe believing is a Chriſtian act, and none are true Chriſtians but thoſe that are born again. But I mean by believing, believing unto Salvation.</p>
+               <p>Q. <hi>Can you prove this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; They that believe in the Name of Chriſt, are ſuch, which are born not of blood, nor of the will of the fleſh, nor of the will of man, but of God, <hi>Joh.</hi> 1.12, 13.</p>
+               <p>Q. <hi>What is believing?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is ſuch an act of a gracious Soul, as layeth hold on Gods Mercy through Chriſt, <hi>Act.</hi> 15, 11.</p>
+               <p>Q. <hi>Why do you call it an act of a gracious Soul?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe their minds are diſpoſed that way, by the Power of the Holy-Ghoſt, <hi>Rom.</hi> 15.13.</p>
+               <p>Q. <hi>If ſuch a poor ſinner as I am would be ſaved from the wrath to come, how muſt I believe?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thy firſt queſtion ſhould be, <hi>on</hi> whom muſt I believe? <hi>Joh.</hi> 9.35, 36.</p>
+               <p>Q. <hi>On whom then muſt I beleive?</hi>
+               </p>
+               <pb n="36" facs="tcp:104032:19"/>
+               <p>
+                  <hi>A.</hi> On the Lord Jeſus Chriſt, <hi>Act.</hi> 16.31, 32.</p>
+               <p>Q. <hi>Who is Jeſus Chriſt that I might believe on him?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He is the only begotten Son of God, <hi>Joh.</hi> 3.16.</p>
+               <p>Q. <hi>Why muſt I believe in him?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe he is the Saviour of the World, 2 <hi>Pet.</hi> 1.1. 1 <hi>John</hi> 4.14.</p>
+               <p>Q. <hi>How is he the Saviour of the World?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By the Fathers deſignation, and ſending for God ſent not his Son into the World to con<g ref="char:EOLhyphen"/>demn the World, but that the World through him might be ſaved, <hi>John</hi> 3.13.</p>
+               <p>Q. <hi>How did he come into the World?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In Mans fleſh, in which fleſh he fulfilled the Law, died for our ſins, conquered the Devil and Death, and obtained Eternal Redemption for us, <hi>Gal.</hi> 4.4. <hi>Rom.</hi> 10.3, 4. <hi>chap.</hi> 8.3. <hi>Heb.</hi> 2.14 15. <hi>chap</hi> 6.20 <hi>chap</hi> 9.12, 24.</p>
+               <p>Q. <hi>But is there no other way to be ſaved but by believing in Jeſus Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> There is no other name given under Heaven among men whereby we muſt be ſaved and therefore he that believeth not, ſhall be dam<g ref="char:EOLhyphen"/>ned, <hi>Act.</hi> 4.12. <hi>Mar.</hi> 16.16. <hi>John</hi> 3.18.36.</p>
+               <p>Q. <hi>What is believing on Jeſus Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is a receiving of him with what is in him, as the gift of God to thee a ſinner, <hi>Joh.</hi> 1. 12.</p>
+               <p>Q <hi>What is in Jeſus Chriſt to encourage me to</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <pb n="37" facs="tcp:104032:19"/>
+               <p>
+                  <hi>A.</hi> Infinite Righteouſneſs to juſtifie thee, and the Spirit without meaſure to Sanctifie thee, <hi>Iſa.</hi> 45.24, 25. <hi>Dan.</hi> 9.24. <hi>Phil.</hi> 3.7, 8. <hi>Joh.</hi> 3.34.</p>
+               <p>Q. <hi>Is this made mine if I receive Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; If thou receive him as God offereth him to thee, <hi>John</hi> 3.16.</p>
+               <p>Q. <hi>How doth God offer him to me?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Even as a rich Man freely offereth an Alms to a Begger, and ſo muſt thou receive him, <hi>John</hi> 6.32, 33, 34, 35.</p>
+               <p>Q. <hi>Hath he indeed made amends for ſin? and would he indeed have me accept of what he hath done?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That he hath made amends for ſin, 'tis evident, <hi>becauſe God for Chriſts ſake forgiveth thee.</hi> and 'tis as evident that he would have thee ac<g ref="char:EOLhyphen"/>cept thereof, becauſe he offereth it to thee, and hath ſworn to give thee the utmoſt benefit, to wit, Eternal life, if thou doſt receive it, yea and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th threatned thee with eternal Damnation if after all this thou ſhalt neglect ſo great Salvati<g ref="char:EOLhyphen"/>on, <hi>Epheſ.</hi> 5.1. <hi>Rom.</hi> 3.24. <hi>Mat.</hi> 28.19. <hi>Act.</hi> 13.32, 33, 38, 39. <hi>Heb.</hi> 6.17, 18. <hi>chap.</hi> 2.3. <hi>Mar.</hi> 16.16.</p>
+               <p>Q. <hi>But how muſt I be qualified before I ſhall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>are to believe in Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Come, ſenſible of thy ſins and of the Wrath of God due unto them, for thus thou <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t bid to come, <hi>Mat.</hi> 11.28.</p>
+               <p>Q. <hi>Did ever any come thus to Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A. David</hi> came thus, <hi>Paul</hi> and the <hi>Jailer</hi>
+                  <pb n="38" facs="tcp:104032:20"/> came thus, alſo Chriſt's Murderers came thus, <hi>Pſal.</hi> 51.1, 2, 3. <hi>Acts</hi> 9.6. <hi>Acts</hi> 16.30, 31. <hi>Act.</hi> 2.37.</p>
+               <p>Q. <hi>But doth it not ſeem moſt reaſonable that we ſhould firſt mend and be good?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The whole have no need of the Phyſitian, but thoſe that are ſick; Chriſt came not to call the righteous, but ſinners to repentance, <hi>Mar.</hi> 2.17.</p>
+               <p>Q. <hi>But is it not the beſt way, if one can to mend firſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> This is juſt as if a ſick man ſhould ſay, is it not beſt for me to be well before I go to the Phyſician; or as if a wounded man ſhould ſay, when I am cured I will lay on the Plaiſter.</p>
+               <p>Q. <hi>But when a poor Creature ſees its vileneſs, it is afraid to come to Chriſt, is it not?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; But without ground, for he hath ſaid, ſay to them that are of a fearful heart, be ſtrong, fear not; and to this man will I look, e<g ref="char:EOLhyphen"/>ven to him that is poor and of a contrite Spirit, and trembles at my word, <hi>Iſa.</hi> 35.4. <hi>Chap.</hi> 66.2.</p>
+               <p>Q. <hi>What incouragement can be given us, th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> to come?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Prodigal came thus and his Father received him, and fell upon his neck and kiſſed him. Thus he received the <hi>Coloſſians</hi> and con<g ref="char:EOLhyphen"/>ſequently all that are ſaved, <hi>Luke</hi> 15. <hi>Coloſ.</hi> 2.13.</p>
+               <pb n="39" facs="tcp:104032:20"/>
+               <p>Q. <hi>Will you give me one more encourage<g ref="char:EOLhyphen"/>ment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Promiſes are ſo worded, that they that are Scarlet-ſinners, Crimſon-ſinners, Blaſ<g ref="char:EOLhyphen"/>phemous ſinners, have incouragement to come to him with hopes of life, <hi>Iſa.</hi> 1.18. <hi>Mar.</hi> 3.28. <hi>Joh.</hi> 6.36. <hi>Luk.</hi> 24.47. <hi>Act.</hi> 13.36.</p>
+               <p>Q. <hi>Shall any one that believeth be ſaved?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> If they believe as the Scriptures have ſaid, if the Scriptures be fulfilled in their believing, <hi>Joh.</hi> 7.38. <hi>Jam.</hi> 2.23.</p>
+               <p>Q. <hi>What do you mean by that?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> When Faith, which a Man ſaith he hath, proveth it ſelf to be of the right kind by its Acts and Operations in the mind of a poor ſin<g ref="char:EOLhyphen"/>ner, <hi>Jam.</hi> 2.19, 20, 21, 22.</p>
+               <p>Q. <hi>Why? is there many kinds of Faith?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; There is a Faith that will ſtand with a heart as hard as a rock; a ſhort-winded Faith, which dureth for a while; and in time of tem<g ref="char:EOLhyphen"/>ptation ſuch fall away, <hi>Luke</hi> 8.13.</p>
+               <p>Q. <hi>Is there any other kind of Faith?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; There is a Faith that hath no more life in it than hath the body of a dead man, <hi>Jam.</hi> 2.26.</p>
+               <p>Q. <hi>Is there yet another of theſe unprofitable Faiths?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; there is a Faith that is of our ſelves, and not of the ſpecial Grace of God, <hi>Eph.</hi> 2.8.</p>
+               <p>Q. <hi>Tell me if there be yet another?</hi>
+               </p>
+               <pb n="40" facs="tcp:104032:21"/>
+               <p>
+                  <hi>A.</hi> There is a Faith that ſtandeth in the Wiſ<g ref="char:EOLhyphen"/>dom of men, and not in the power of God, 1 <hi>Cor.</hi> 2.5.</p>
+               <p>Q. <hi>Is here all?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No; there is a Faith that ſeems to be ho<g ref="char:EOLhyphen"/>ly, but it will not do, becauſe tis not the moſt holy Faith, 2 <hi>Pet.</hi> 2.20. <hi>Jude</hi> 20.</p>
+               <p>Q. <hi>Alas! If there be ſo many kinds of Faith, that will not profit to Salvation, how eaſie is it for me to be deceived?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is eaſie indeed, and therefore the holy Ghoſt doth in this thing, ſo often caution us, be not deceived, let no man deceive you, and if a man thinketh himſelf to be ſomething, when he is nothing, he deceiveth himſelf, 1 <hi>Cor.</hi> 6.9. <hi>Eph.</hi> 5.6. <hi>Gal.</hi> 6.3.</p>
+               <p>Q. <hi>But is there no way to diſtinguiſh the right Faith from that which is wrong?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; And that by the manner of its Coming, and Operation.</p>
+               <p>Q. <hi>What do you mean by the manner of its Coming?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Nay; you muſt make two queſtions of this one; that is, what is it for Faith to come? and in what manner doth it come?</p>
+               <p>Q. <hi>Well then, what is it for Faith to come?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> This word <hi>Faith comes,</hi> ſuppoſeth, thou wert once without it; it alſo ſuppoſeth that thou didſt not fetch it whence it was, it alſo ſuppo<g ref="char:EOLhyphen"/>ſeth it hath a way of coming, <hi>Gal.</hi> 3.23, 25.</p>
+               <pb n="41" facs="tcp:104032:21"/>
+               <p>Q. <hi>That I was once without it, you intimated before, but muſt I take it without proof for gran<g ref="char:EOLhyphen"/>ted?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I will give you a proof or two: God hath concluded them all in unbelief, and again it is ſaid Faith comes. And again, the Holy Ghoſt inſinuateth our eſtate to be dreadful before Faith come, <hi>Rom.</hi> 11.32. <hi>Chap.</hi> 10.17. <hi>Gal.</hi> 3.23.</p>
+               <p>Q. <hi>Why? How is it with men before Faith comes?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Without Faith or before Faith comes it is impoſſible to pleaſe God, for whether their actions be civil or religious, they ſin in all they do. The Sacrifice of the wicked is an abomi<g ref="char:EOLhyphen"/>nation, and the plowing of the wicked is ſin, <hi>Prov.</hi> 21.4.27.</p>
+               <p>Q. <hi>Is not this a very ſad condition?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; But this is not all, for their preſent unbelief bindeth them over to wrath, by ſhut<g ref="char:EOLhyphen"/>ting them up to the Law; it alſo draweth them away from God, and will drown them in e<g ref="char:EOLhyphen"/>verlaſting damnation if the grace of God pre<g ref="char:EOLhyphen"/>vent not, <hi>Gal.</hi> 3.23. <hi>Heb.</hi> 3.17, 18. <hi>John.</hi> 3.36.</p>
+               <p>Q. <hi>What if a man ſaw himſelf in this condi<g ref="char:EOLhyphen"/>tion?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> There are many ſee themſelves in this Condition?</p>
+               <p>Q. <hi>How came they to ſee it?</hi>
+               </p>
+               <pb n="42" facs="tcp:104032:22"/>
+               <p>
+                  <hi>A.</hi> By the preaching and hearing the Word of God, <hi>Joh.</hi> 16.8, 9.</p>
+               <p>Q. <hi>And what do ſuch think of themſelves?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They do not only think, but know that in this Condition they are without Chriſt, without Hope, and without God in the World, <hi>Eph.</hi> 2.11, 12.</p>
+               <p>Q. <hi>Are not they happy that ſee not themſelves in this Condition?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; If they have ſeen themſelves delive<g ref="char:EOLhyphen"/>red therefrom by a work of Faith in their Souls, elſe not.</p>
+               <p>Q. <hi>How do you mean?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I mean if they have ſeen themſelves deli<g ref="char:EOLhyphen"/>vered from this ſtate, by being by the Word and Spirit of God implanted into the Faith of Chriſt, <hi>Rom.</hi> 11.17, 18, 19.</p>
+               <p>Q. <hi>Are not they happy that are never troubled with this ſad ſight of their condition?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They are juſt ſo happy, as is that man who lieth faſt aſleep in his houſe while that is on fire about his ears. Can a man be happy that is ignorant that he is without God and Chriſt, and Hope! Can a man be happy that is ignorant that he is hanging over Hell by the poor weak thread of an uncertain Life? for this is the ſtate of ſuch an one.</p>
+               <p>Q. <hi>But may not Faith come to a man without he ſee himſelf to be firſt in this Condition?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is Gods ordinary way to convince men
+<pb n="43" facs="tcp:104032:22"/> of this their ſad Condition before he revealeth to them the righteouſneſs of Faith, or work Faith in them to lay hold of that Righteouſneſs, <hi>Joh.</hi> 16.9, 10, 11. <hi>Gal.</hi> 3.23, 25.</p>
+               <p>Q. <hi>How then do you conclude of them that never ſaw themſelves ſhut up by unbelief under ſin and the curſe of God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I will not judg them for the future, God may convert them before they die; but at preſent their ſtate is miſerable, for becauſe they are ſhut up and held priſoners by the Law, by their luſts, and by the Devil, and unbelief, therefore they cannot ſo much as with their heart deſire that God would have mercy upon them, and bring them out of their Snares and Chains.</p>
+               <p>Q. <hi>Then do you count it better for a man to ſee his Condition by nature than to be ignorant thereof.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Better a thouſand times to ſee it in the World than to ſee it in Hell-fire, for he muſt ſee it there or here: now if he ſees it here, this is the place of Prayer, here is the preaching of the Word which is God's Ordinance to beget Faith Beſides, here God applyeth Promiſes of Mercy to the deſolate, and Chriſt alſo hath proteſted that he that cometh to him, he will in no wi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> caſt out, <hi>Joh.</hi> 6.37.</p>
+               <p>
+                  <hi>Q. I am convinced that I was once without Faith, and alſo that I cannot fetch it, but pray te<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> me the way of its coming?</hi>
+               </p>
+               <pb n="44" facs="tcp:104032:23"/>
+               <p>
+                  <hi>A.</hi> Faith comes by hearing, and hearing by the Word of God, <hi>Rom.</hi> 10.17.</p>
+               <p>
+                  <hi>Q. How by hearing?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> God mixeth it with the Word, when he abſolutely intendeth the Salvation of the ſinner, <hi>Heb.</hi> 4.2, 3. <hi>Act.</hi> 13.48.</p>
+               <p>
+                  <hi>Q. And how do Men hear when Faith is mixed with the Word?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They hear the Word not as the word of Man, but as it is in truth the Word of God, which worketh effectually in them that believe, <hi>Theſ.</hi> 2.13.</p>
+               <p>
+                  <hi>Q. Pray tell me now the manner of its coming?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It comes through difficulty, it comes gra<g ref="char:EOLhyphen"/>dually.</p>
+               <p>
+                  <hi>Q. What are the difficulties which oppoſe it <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> its coming?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Senſe of unworthineſs, guilt of Conſci<g ref="char:EOLhyphen"/>ence, natural Reaſon, Unbelief, and arguments forged in Hell, and thence ſuggeſted by the De<g ref="char:EOLhyphen"/>vil into the heart againſt it, <hi>Luk.</hi> 5.8. <hi>Mar.</hi> 9.24. <hi>Iſa.</hi> 6.5. <hi>Rom.</hi> 4.18, 19, 20.</p>
+               <p>Q. <hi>How doth Faith come? gradually.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Perhaps at firſt it is but like a grain of Muſtard-ſeed, ſmall, and weak, <hi>Mat.</hi> 17.20.</p>
+               <p>
+                  <hi>Q. Will you explain it further?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Faith, at firſt, perhaps may have its ex<g ref="char:EOLhyphen"/>cellency lie in view only, that is in ſeeing where <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſtification and Salvation is; after that it may <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ep a degree higher, and be able to ſay, it may
+<pb n="4" facs="tcp:104032:23"/> be, or who can tell but I may obtain this Sa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>vation? again, it, may perhaps go yet a ſte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> higher and arrive to ſome ſhort and tranſier aſſurance, <hi>Heb.</hi> 11.13. <hi>Joel</hi> 2.13, 14. <hi>Zeph.</hi> 2.3 <hi>Pſal.</hi> 30.7.</p>
+               <p>
+                  <hi>Q. But doth Faith come only by hearing?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is uſually begotten by the Word preach<g ref="char:EOLunhyphen"/>ed, but after it is begotten, it is increaſed ſeve<g ref="char:EOLunhyphen"/>ral ways. It is increaſed by Prayer, it is increa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ed by Chriſtian Conference, it is increaſed b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Reading, it is increaſed by Meditation, it increaſed by the remembrance of former Expe<g ref="char:EOLunhyphen"/>riences, <hi>Luk.</hi> 17.5. <hi>Mar.</hi> 9.24. <hi>Rom.</hi> 1.12. <hi>chap.</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 25, 26. 1 <hi>Tim.</hi> 4.12, 13, 14, 15. <hi>Mat.</hi> 16.8, 9.</p>
+               <p>
+                  <hi>Q. What do theſe things teach us?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They teach us that the Men of this Worl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are very ignorant of, and as much without deſi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> after Faith; they neither Hear, nor Pray, Con<g ref="char:EOLunhyphen"/>fer, nor Read, nor Meditate for the ſake of Faith</p>
+               <p>
+                  <hi>Q. But you ſaid even now, that this Faith w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> diſtinguiſhed from that which profiteth not to Sal<g ref="char:EOLunhyphen"/>vation, as by the manner of its coming, ſo by i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> operation? pray what is its operation?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It cauſeth the Soul to ſee in the ligh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thereof, that there is no Righteouſneſs in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> World that can ſave the ſinner, <hi>Iſa.</hi> 64.6.</p>
+               <p>
+                  <hi>Q. How doth it give the Soul this Sight?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By giving him to underſtand the Law and his own inability to do it, <hi>Gal.</hi> 2.15.16.</p>
+               <p>
+                  <hi>Q. And doth it alſo ſhow the Soul where Juſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </p>
+               <pb n="46" facs="tcp:104032:24"/>
+               <p>
+                  <hi>A.</hi> Yes; It ſhews it that Juſtifying Righte<g ref="char:EOLhyphen"/>ouſneſs is only to be found in the Lord Jeſus Chriſt, in what he hath done and ſuffered in the Fleſh. <hi>Iſa.</hi> 45.24, 25. <hi>Phil.</hi> 3.3, 4, 5, 6, 7, 8.</p>
+               <p>Q. <hi>How doth Faith find this Righteouſneſs in Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By the Word, which is therefore called the Word of Faith, becauſe Faith by that findeth ſufficient Righteouſneſs in him, <hi>Rom.</hi> 10.6, 7, 8, 9.</p>
+               <p>
+                  <hi>Q. How elſe doth it operate in the Soul?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It applieth this Righteouſneſs to the ſin<g ref="char:EOLhyphen"/>ner, and alſo helps him to embrace it, <hi>Rom.</hi> 3.21, 22. 1 <hi>Cor.</hi> 1.30. <hi>Gal.</hi> 2.20.</p>
+               <p>
+                  <hi>Q. How elſe doth it operate?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By this application of Chriſt, the Soul is quickned to Life, Spiritualized and made Hea<g ref="char:EOLhyphen"/>venly. For right Faith quickneth to Spiritual Life, Purifies and Sanctifies the Heart; and worketh up the Man that hath it, into the I<g ref="char:EOLhyphen"/>mage of Jeſus Chriſt, <hi>Col.</hi> 2.12, 13. <hi>Act.</hi> 15.9. <hi>chap.</hi> 26.18. 2 <hi>Cor.</hi> 3.18.</p>
+               <p>Q. <hi>How elſe doth it operate?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It giveth the Soul peace with God through Jeſus Chriſt, <hi>Rom.</hi> 5.1.</p>
+               <p>Q. <hi>Surely Chriſt is of great eſteem with them that have this Faith in him, is he not?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes, Yes. Unto them therefore which believe he is precious, precious in his Perſon, precious in his Undertakings, precious in his
+<pb n="47" facs="tcp:104032:24"/> Word, 1 <hi>Pet.</hi> 2.7. <hi>chap</hi> 1.18, 19. 2 <hi>Pet.</hi> 1.3, 4.</p>
+               <p>Q. <hi>Can theſe people, then, that have this Faith, indure to have this Chriſt ſpoken againſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> O! No! This is a ſword in their bones, and a burden that they cannot bear, <hi>Pſal.</hi> 42.10. <hi>Zeph.</hi> 3.18, 19.</p>
+               <p>Q. <hi>Doth it not go near them when they ſee his ways and people diſcountenanced?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; And they alſo chuſe rather to be deſpiſed and perſecuted with them, than to enjoy the pleaſures of Sin for a ſeaſon, <hi>Heb.</hi> 11.24, 25.</p>
+               <p>Q. <hi>Do they not pray much for his ſecond Com<g ref="char:EOLhyphen"/>ing?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes, yes; They would fain ſee him on this ſide the Clouds of Heaven, their Converſa<g ref="char:EOLhyphen"/>tion is in Heaven from whence they look for the Saviour the Lord Jeſus Chriſt, <hi>Phil.</hi> 3.20.</p>
+               <p>Q. <hi>And do they live in this World as if he was to come preſently?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; For his coming will be glorious and dreadful, full of Mercy and Judgment. The day of the Lord will come as a Thief in the night, in which the Heavens ſhall paſs away with a great noiſe, and the Elements ſhall melt with ſervent heat; the earth alſo and the works therein ſhall be burnt up: ſeeing then that all theſe things ſhall be diſſolved what manner of perſons ought we to be in all holy Converſation and Godlineſs, 2 <hi>Pet.</hi> 3.10, 11.</p>
+            </div>
+            <div type="part">
+               <pb n="48" facs="tcp:104032:25"/>
+               <head>Of Prayer.</head>
+               <p>Q. <hi>WEll, I am glad that you have ſhewed me that I muſt worſhip God by confeſſion of ſin, and Faith in Jeſus Chriſt: Is there any o<g ref="char:EOLhyphen"/>ther thing a part of the true Worſhip of God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; ſeveral, I will mention only two more at this time?</p>
+               <p>Q. <hi>What are they?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Prayer, and ſelf-denial.</p>
+               <p>Q. <hi>Is Prayer then a part of the worſhip of God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; a great part of it?</p>
+               <p>Q. <hi>How do you prove that?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> O come let us worſhip, and bow down, let us kneel before the Lord our Maker, <hi>Pſal.</hi> 95.6.</p>
+               <p>Q. <hi>Is there another Scripture proves it?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; Then ſhe came and worſhipped him, ſaying, Lord help me, <hi>Mat.</hi> 15.25.</p>
+               <p>Q. <hi>What is Prayer?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> A ſincere ſenſible affectionate pouring out of the Soul to God in the Name of Chriſt for what God hath promiſed, <hi>Prov.</hi> 15.8. <hi>Jer.</hi> 31.18, 19. <hi>Pſal.</hi> 42.2, 3, 4. <hi>Joh.</hi> 14.13, 14.1 <hi>Joh.</hi> 5.14.</p>
+               <p>Q. <hi>Doth not every body pray?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No; the wicked through the pride of his Countenance will not ſeek after God; God is not in all his thoughts, <hi>Pſal.</hi> 40.4.</p>
+               <pb n="49" facs="tcp:104032:25"/>
+               <p>Q. <hi>What will become of them that do not pray?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They do not worſhip God, and he will deſtroy them; Pour out thy fury (ſaid the Pro<g ref="char:EOLhyphen"/>phet) upon the heathen, and upon the families that call not upon thy name, <hi>Pſal.</hi> 79.6. <hi>Jer.</hi> 10.25.</p>
+               <p>Q. <hi>But ſeeing God knoweth what we want, why doth he not give us what we need without praying?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> His Counſel and Wiſdom leadeth him o<g ref="char:EOLhyphen"/>therwiſe. Thus ſaith the Lord, I will yet be en<g ref="char:EOLhyphen"/>quired of by the houſe of Iſrael to do it for them, <hi>Ezek.</hi> 36.37.</p>
+               <p>Q. <hi>Why will God have us pray?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe he would be acknowledged by thee, that he is above thee, and therefore would have thee come to him as the Mean come to the Mighty. Thus <hi>Abraham</hi> came unto him, <hi>Gen.</hi> 18.27, 30.</p>
+               <p>Q. <hi>Is there another Reaſon why I ſhould pray?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; For by Prayer thou acknowledgeſt, that help is not in thine own power, 2 <hi>Chron.</hi> 20.6, 12.</p>
+               <p>Q. <hi>What Reaſon elſe have you why I ſhould Pray?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By Prayer thou confeſſeſt that help is only in him, <hi>Pſal.</hi> 62.1.</p>
+               <p>Q. <hi>What other Reaſon have you?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By Prayer, thou confeſſeſt thou canſt not
+<pb n="50" facs="tcp:104032:26"/> live without his Grace and Mercy, <hi>Mat.</hi> 14.30. <hi>Heb.</hi> 4.16.</p>
+               <p>Q. <hi>Are all that pray, heard of the Lord?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No; They looked, that is, prayed, but there was none to ſave them; even unto the Lord, but he anſwered them not, 2 <hi>Sam.</hi> 22.42.</p>
+               <p>Q. <hi>To What doth God compare the Prayers which he refuſeth to anſwer?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He compareth them to the howling of a Dog, <hi>Hoſ.</hi> 7.14.</p>
+               <p>Q. <hi>Who be they whoſe Prayers God will not an<g ref="char:EOLhyphen"/>ſwer?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Theirs, who think to be heard for their much ſpeaking, and vain repetition, <hi>Mat.</hi> 6.7.</p>
+               <p>Q. <hi>Is there any others whoſe Prayers God refu<g ref="char:EOLhyphen"/>ſeth?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; There are that ask and have not, be<g ref="char:EOLhyphen"/>cauſe what they ask, they would ſpend upon their luſts, <hi>Jam.</hi> 4.3.</p>
+               <p>Q. <hi>Is there any other whoſe Prayer God refuſeth?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; If I regard iniquity in my heart, the Lord will not hear my Prayer, <hi>Pſal.</hi> 66.18.</p>
+               <p>Q. <hi>Is the regarding of ſin in our heart ſuch a deadly hindrance to Prayer?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Son of Man, ſaith God, theſe men have ſet up their Idols in their heart, and have put the ſtumbling block of their iniquity before their face: ſhould I be enquired of at all by them? I will ſet my face againſt that man, and will make him a Sign and a Proverb. And I will cut him off
+<pb n="51" facs="tcp:104032:26"/> rom the midſt of my people, <hi>Ezek.</hi> 14.3, 8.</p>
+               <p>Q. <hi>Whoſe Prayers be they that God will hear?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Prayers of the Poor and needy, <hi>Pſal.</hi> 34.6. <hi>Iſa.</hi> 41.17.</p>
+               <p>Q. <hi>What do you mean by the poor?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Such as have poverty in Spirit, <hi>Mat.</hi> 5.3.</p>
+               <p>Q. <hi>Who are they that are poor in Spirit?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They that are ſenſible of the want and neceſſity of all thoſe things of God, that prepare a Man to the Kingdom of Heaven.</p>
+               <p>Q. <hi>What things are they?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Faith, Hope, Love, Joy, Peace, a new Heart, the Holy Ghoſt, Sanctification, ſee <hi>Jam.</hi> 2.5. 2 <hi>Theſ.</hi> 2.16. <hi>Ezek.</hi> 36.26, 27.</p>
+               <p>Q. <hi>What do you mean by the needy?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thoſe whoſe Souls long and cannot be ſatisfied without the injoyment of theſe bleſſed things, <hi>Pſal.</hi> 63.1. <hi>Pſal.</hi> 119.20.</p>
+               <p>Q. <hi>Will God hear the prayers of ſuch?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; For he ſatisfieth the longing Soul, and filleth the hungry Soul with good things, <hi>Pſal.</hi> 107.9.</p>
+               <p>Q. <hi>How ſhall I know that I am one of thoſe, to whom God will give theſe things?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> If thou ſeeſt a beauty in them beyond the beauty of all other things, <hi>Pſal.</hi> 110.3.</p>
+               <p>Q. <hi>How elſe ſhall I know he heareth me?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> If thou deſireſt them for their beauties ſake, <hi>Pſal.</hi> 90.14, 17.</p>
+               <p>Q. <hi>How elſe ſhould I know I ſhall have them?</hi>
+               </p>
+               <pb n="52" facs="tcp:104032:27"/>
+               <p>
+                  <hi>A.</hi> When thy groanings after them are be<g ref="char:EOLhyphen"/>yond expreſſion, <hi>Rom.</hi> 8.26.</p>
+               <p>Q. <hi>How elſe ſhould I know, and ſo be incou<g ref="char:EOLhyphen"/>raged to pray?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> When thou followeſt hard after God in all his Ordinances for the obtaining of them, <hi>Iſa.</hi> 4.31. <hi>chap.</hi> 64.5.</p>
+               <p>Q. <hi>How elſe ſhould I know?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> When thou makeſt good uſe of that lit<g ref="char:EOLhyphen"/>tle thou haſt already, <hi>Rev.</hi> 3.8.</p>
+               <p>Q. <hi>Is here all the good ſigns that my Prayers ſhall be heard?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No; There is one more without which thou ſhalt never obtain.</p>
+               <p>Q. <hi>Pray what is that?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thou muſt plead with God, the Name and Merits of Jeſus Chriſt, for whoſe ſake only God giveth thee theſe things. If we ask any thing in his name he heareth us, and whatſo<g ref="char:EOLhyphen"/>ever you ask the Father in my name, ſaith Chriſt, I will do it, <hi>Joh.</hi> 14.13, 14.</p>
+               <p>Q. <hi>Doth God always anſwer preſently?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Sometimes he doth, and ſometime he doth not, <hi>Iſa</hi> 30.19. <hi>Dan.</hi> 10.12.</p>
+               <p>Q. <hi>Is not God's deferring, a ſign of his anger?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Sometimes it is not, and ſometimes it is.</p>
+               <p>Q. <hi>When is it no ſign of his anger?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> When we have not wickedly departed from him by our ſins, <hi>Luk.</hi> 18.7.</p>
+               <p>Q. <hi>When is it a ſign of his anger?</hi>
+               </p>
+               <pb n="53" facs="tcp:104032:27"/>
+               <p>
+                  <hi>A.</hi> When we have backſliden, when we have not repented ſome former miſcarriages, <hi>Hoſ.</hi> 5.14, 15.</p>
+               <p>Q. <hi>Why doth God defer to hear their Prayers that have not wickedly departed from him?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He loves to hear their voice, to try their Faith, to ſee their importunity, and to obſerve how they can wreſtle with him for a bleſſing, <hi>Song.</hi> 2.14. <hi>Mat.</hi> 15.22, 23, 24, 25, 26, 27, 28. <hi>Luk.</hi> 11.5, 6, 7, 8. <hi>Gen.</hi> 32.25, 26, 27.</p>
+               <p>Q. <hi>But is not deferring to anſwer Prayer a great diſcouragement to Praying?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Though it is, becauſe of our unbelief, yet it ought not, becauſe God is faithful. Therefore men ought always to Pray, and not to faint, <hi>Luk.</hi> 10.1, 2, 3, 4, 5, 6.</p>
+            </div>
+            <div type="part">
+               <head>Of Self-Denial.</head>
+               <p>Q. I <hi>Am glad you have thus far granted my re<g ref="char:EOLhyphen"/>queſt: But you told me that there was an<g ref="char:EOLhyphen"/>other part of God's Worſhip, pray repeat that again?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is <hi>Self-denial.</hi>
+               </p>
+               <p>Q <hi>Now I remember it well, pray how do you prove that Self-denial is called a part of God's Worſhip?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is ſaid of <hi>Abraham,</hi> that when he went to offer up his Son <hi>Iſaac</hi> upon the Altar for a burnt-offering, which was to him a very great
+<pb n="54" facs="tcp:104032:28"/> part of Self-denial, that he counted that act of his, <hi>Worſhipping God?</hi>
+               </p>
+               <p>Q. <hi>Will you be pleaſed to read the Text?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; And <hi>Abraham</hi> ſaid unto his young Men, abide ye here with the Aſs, and I and the Lad will go yonder and Worſhip, <hi>&amp;c.</hi> This now was when he was agoing to ſlay his <hi>Iſaac, Gen.</hi> 22.5.</p>
+               <p>Q. <hi>What is ſelf-denial?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is for a Man to forſake his <hi>All,</hi> for the ſake of Jeſus Chriſt.</p>
+               <p>Q. <hi>Will you prove this by a Scripture or two?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; Whoſoever he be of you that for<g ref="char:EOLhyphen"/>ſaketh not all that he hath, he cannot be my Diſciple, <hi>Luke</hi> 14.33.</p>
+               <p>Q. <hi>Indeed this is a full place, can you give me one more?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; What things were gain to me, thoſe I count loſs for Chriſt: yea doubtleſs and I count all things but loſs for the excellency of the knowledge of Chriſt Jeſus my Lord, for whom I have ſuffered the loſs of all things, and do count them but dung, that I may win Chriſt, <hi>&amp;c. Phil.</hi> 3.7, 8.</p>
+               <p>Q. <hi>Theſe two are indeed a ſufficient Anſwer to my Queſtion; but pray will you now give me ſome particular inſtances of the ſelf-denial of them that have heretofore been the followers of Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; <hi>Abel</hi> denied himſelf, to the loſing of his Blood; <hi>Abraham</hi> denied himſelf, to the
+<pb n="55" facs="tcp:104032:28"/> loſing of his Country and his Fathers Houſe; <hi>Moſes</hi> denied himſelf, of a Crown and a King<g ref="char:EOLhyphen"/>dom, and of eaſe and tranquillity; <hi>Joſeph</hi> de<g ref="char:EOLhyphen"/>nied himſelf, of fleſhly Luſts, <hi>Gen.</hi> 4.8. <hi>chap.</hi> 12.1, 2, 3, 4. <hi>Heb.</hi> 11.24, 25, 26, 27. <hi>Gen.</hi> 39.7, 8, 9.</p>
+               <p>Q. <hi>But theſe Men each of them denied them<g ref="char:EOLhyphen"/>ſelves but of ſome things, did they?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> You ſee <hi>Abel</hi> loſt all, his Blood and all; <hi>Abraham</hi> loſt his Country to the hazzard of his Life, ſo did <hi>Moſes</hi> in leaving the Crown and Kingdom, and <hi>Joſeph</hi> in denying his Miſtreſs, <hi>Gen.</hi> 12.13. <hi>Heb.</hi> 11.27. <hi>Gen.</hi> 39.10, 11, 12, 13, 14.</p>
+               <p>Q. <hi>Will you diſcourſe a little particularly of Self-denial?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> With all my heart.</p>
+               <p>Q. <hi>Firſt then, pray in what ſpirit muſt this Self-denial be performed?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It muſt be done in the ſpirit of Faith, of Love, and of a ſound mind. Otherwiſe, if a Man ſhould ſell all that he hath and give to the poor, and his Body to be burnt beſides, it would profit him nothing, 1 <hi>Cor.</hi> 13.1, 2, 3.</p>
+               <p>Q. <hi>Who are like to miſcarry here?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They whoſe ends in Self-denial are not according to the propoſals of the Goſpel.</p>
+               <p>Q. <hi>Who are they?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They that ſuffer through Strife and Vain<g ref="char:EOLhyphen"/>glory; or thus, they who ſeek in their ſuffer<g ref="char:EOLhyphen"/>ings, the praiſe of Men more than the Glory of
+<pb n="56" facs="tcp:104032:29"/> Chriſt, and profit of their Neighbour.</p>
+               <p>Q. <hi>Who elſe are like to miſcarry here?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They that have deſigns like <hi>Ziba</hi> to in<g ref="char:EOLhyphen"/>gratiate themſelves by their pretended Self-de<g ref="char:EOLhyphen"/>nial into the affections of the godly, and to en<g ref="char:EOLhyphen"/>rich themſelves by this means, 2 <hi>Sam.</hi> 16.1, 2, 3, 4.</p>
+               <p>Q. <hi>Are there any other like to miſcarry here?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; They that by denying themſelves think with the Phariſee, to make themſelves ſtand more Righteous in Gods eyes than others, <hi>Luke</hi> 18.11, 12.</p>
+               <p>Q. <hi>Who elſe are in danger of miſcarrying here?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They who have fainted in their Works, they whoſe Self-denial hath at laſt been over<g ref="char:EOLhyphen"/>come by ſelf-Love, <hi>Gal.</hi> 3.4. <hi>chap.</hi> 6.9.</p>
+               <p>Q. <hi>Shall I propound a few more queſtions?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> If you pleaſe.</p>
+               <p>Q. <hi>What then if a Man promiſeth to deny him<g ref="char:EOLhyphen"/>ſelf hereafter and not now, is not this one ſtep to this kind of Worſhip?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No, by no means; for the reaſon why this Man refuſeth to deny himſelf <hi>now,</hi> is be<g ref="char:EOLhyphen"/>cauſe his heart at preſent ſticks cloſer to his Luſts and the World, than to God and Chriſt.</p>
+               <p>Q. <hi>Can you give me a Scripture-inſtance to make this out?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; <hi>Eſau</hi> never intended for ever to part with the Bleſſing, he intended to have it hereafter; but God counted his not chuſing of it at preſent, a deſpiſing of it, and a preferring
+<pb n="57" facs="tcp:104032:29"/> of his Luſts before it, and therefore when he would, God would not, but reject both him and his tears, <hi>Gen.</hi> 25.30, 31, 32, 33. <hi>Heb.</hi> 12.14, 15, 16.</p>
+               <p>Q. <hi>How and if a man ſhall ſay thus, I am willing to deny my ſelf in many things, though he cannot deny himſelf in all, is not this one ſtep in this part of this Worſhip of God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No, in no wiſe; for this man doth juſt like <hi>Saul,</hi> he will ſlay a part, and will keep a part alive; the Kingdom muſt be taken from him alſo, 1 <hi>Sam.</hi> 15.</p>
+               <p>Q. <hi>How if a man be willing to loſe all but his Life?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He that will ſave his life ſhall loſe it, but he that will loſe his life for my ſake, ſaith Chriſt, ſhall ſave it unto life Eternal, <hi>Mat.</hi> 16.25. <hi>Joh.</hi> 12.25.</p>
+               <p>Q. <hi>How if a man has been willing to loſe all that he hath, but is not now, will not God accept of his willingneſs in time paſt, though he be other<g ref="char:EOLhyphen"/>wiſe now?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No; for the true Diſciple muſt deny himſelf daily, take up his Croſs daily and go after Jeſus Chriſt. <hi>Luk.</hi> 9.23.</p>
+               <p>Q. <hi>But how if a man carrieth it well outwardly, ſo that he doth not diſhonour the Goſpel before men, may not this be counted Self-Denial?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No; If he be not right at heart: for though man looketh on the outward appearance, God
+<pb n="58" facs="tcp:104032:30"/> looketh at the heart; 1 <hi>Sam.</hi> 16.7.</p>
+               <p>Q. <hi>But if I be afraid my heart may deceive me in this great work, if hard things come upon me hereafter, is there no way to find out whether it will deceive me then or no?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I will give you a few anſwers to this que<g ref="char:EOLhyphen"/>ſtion, and will ſhew you firſt whoſe heart is like to deceive him in this work.</p>
+               <p>Q. <hi>Will you befriend me ſo much?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; 1. He that makes not daily Conſci<g ref="char:EOLhyphen"/>ence of Self-Denial, is very unlike to abide a diſ<g ref="char:EOLhyphen"/>ciple for times to come, if difficult. <hi>Judas</hi> did not deny himſelf daily, and therefore fell when the temptation came, <hi>Joh.</hi> 12.6.</p>
+               <p>Q. <hi>Will you give me another Sign?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; He that indulgeth any one ſecret luſt under a profeſſion, is not like to deny him<g ref="char:EOLhyphen"/>ſelf in all things for Chriſt.</p>
+               <p>Q. <hi>Who are they that indulge their luſts?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They that make proviſion for them, either in apparel, or diet, or other-wiſe, <hi>Rom.</hi> 13.12, 13, 14. <hi>Iſa.</hi> 3.16, 17, 18, 19, 20. <hi>Amos</hi> 6.3, 4, 5, 6.</p>
+               <p>Q. <hi>Who elſe do ſo?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They that excuſe their ſins, and keep them diſguiſed that they may not be reprehend<g ref="char:EOLhyphen"/>ed as <hi>Saul</hi> did, &amp;c. 1 <hi>Sam.</hi> 15.18, 19, 20, 21.</p>
+               <p>Q. <hi>Who elſe are they that indulge their luſts?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They that heap up to themſelves ſuch Tea<g ref="char:EOLhyphen"/>chers
+<pb n="59" facs="tcp:104032:30"/> that will favour their Luſts, 2 <hi>Tim.</hi> 4.3, 4. <hi>Iſa.</hi> 30.10.</p>
+               <p>Q. <hi>Who elſe do indulge their ſins?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They that chuſe rather to walk by the im<g ref="char:EOLhyphen"/>perfect lives of profeſſors than by the holy Word of God: or thus, they that make the miſcarria<g ref="char:EOLhyphen"/>ges of ſome good men, an incouragement unto themſelves to forbear to be exact in Self-Denial, theſe eat up the ſins of Gods people as men eat bread, <hi>Hoſ.</hi> 4.7, 8, 9.</p>
+               <p>Q. <hi>Will you now ſhew me who are like to do this part of Gods Worſhip acceptably?</hi>
+               </p>
+               <p>A. Yes; He whoſe heart is ſet againſt ſin as ſin, is like to deny himſelf acceptably, <hi>Rom.</hi> 7.13, 24.</p>
+               <p>Q. <hi>Who elſe?</hi>
+               </p>
+               <p>A. He that hath the ſence and ſavour of for<g ref="char:EOLhyphen"/>giveneſs of ſins upon his heart, 2 <hi>Cor.</hi> 5.14.</p>
+               <p>Q. <hi>Who elſe is like to deny himſelf well?</hi>
+               </p>
+               <p>A. He that hath his affections ſet upon things above, where Chriſt ſitteth at the right hand of God, <hi>Col.</hi> 3.1, 2, 3, 4, 5.</p>
+               <p>Q. <hi>Who elſe is like to deny himſelf well for Chriſt?</hi>
+               </p>
+               <p>A. He that ſeeth a greater treaſure in Self-Denial, than in ſelf-ſeeking, 2 <hi>Cor.</hi> 12.9, 10, 11. <hi>Heb.</hi> 11.24, 25, 26.</p>
+               <p>Q <hi>Is there none other ſigns of one that is like to do this part of Gods worſhip acceptably?</hi>
+               </p>
+               <p>A. Yes; He that takes up his Croſs daily
+<pb n="60" facs="tcp:104032:31"/> and makes Chriſt's Doctrine his Example. <hi>Luk.</hi> 6.47, 48. <hi>Joh.</hi> 12.25, 26.</p>
+               <p>Q. <hi>But how do you diſcover a Man to be ſuch a one?</hi>
+               </p>
+               <p>A. He keepeth his heart with all diligence, he had rather die than ſin; Ill carriages of profeſ<g ref="char:EOLhyphen"/>ſors break his heart; nothing is ſo dear to him as the Glory of Chriſt, <hi>Prov.</hi> 4.23. <hi>Numb.</hi> 11.15. <hi>Phil.</hi> 3.18. <hi>Act.</hi> 20.24.</p>
+               <p>Q. <hi>Pray can you give me ſome motive to Self-Denial?</hi>
+               </p>
+               <p>A. Yes; The Lord Jeſus denied himſelf for thee; what ſayeſt thou to that?</p>
+               <p>
+                  <hi>Q. Wherein did Chriſt deny himſelf for me?</hi>
+               </p>
+               <p>A. He left his Heaven for thee; he denied for thy ſake to have ſo much of this World, as hath a Fox, or a Bird, and he ſpilt his moſt precious Blood for thee. <hi>Joh.</hi> 6.38. <hi>Luk.</hi> 9.58. 2 <hi>Cor.</hi> 8.9. <hi>Rev.</hi> 1.5.</p>
+               <p>
+                  <hi>Q. Can you give another motive to Self-Deni<g ref="char:EOLhyphen"/>al?</hi>
+               </p>
+               <p>A. Yes; What ſhall it profit a man if he ſhall gain the whole World and loſe his own Soul? <hi>Luk.</hi> 8.36.</p>
+               <p>
+                  <hi>Q. But why doth God require Self-Denial of them that will be ſaved?</hi>
+               </p>
+               <p>A. God doth not require Self-Denial as the means to obtain Salvation, but hath laid it down as proof of the truth of a mans affections to God and Chriſt.</p>
+               <pb n="61" facs="tcp:104032:31"/>
+               <p>
+                  <hi>Q. How is Self-Denial a proof of the truth of a mans affections to God?</hi>
+               </p>
+               <p>A. In that for the ſake of his ſervice, he lea<g ref="char:EOLhyphen"/>veth all his injoyments in this World. Thus he proved <hi>Abraham's</hi> affections, thus he proved <hi>Peters</hi> affections, and thus he proved their affe<g ref="char:EOLhyphen"/>ctions that you read of in the Goſpel, <hi>Gen.</hi> 22.12. <hi>Mat.</hi> 4.18, 19, 20, 21, 22. <hi>Luke</hi> 9.57, 58, 59, 60, 61, 62.</p>
+               <p>
+                  <hi>Q. What reaſon elſe can you produce why God requireth Self-Denial?</hi>
+               </p>
+               <p>A. Self-Denial is one of the diſtinguiſhing Characters by which true Chriſtians are mani<g ref="char:EOLhyphen"/>feſted from the feigned ones: for thoſe that are feigned, flatter God with their mouth, but their hearts ſeek themſelves; but the ſincere for the love that he hath to Chriſt, forſaketh all that he hath for his ſake, <hi>Pſal.</hi> 78.36, 37. <hi>Ezek.</hi> 33.31, 32.</p>
+               <p>
+                  <hi>Q. Is there yet another reaſon why God requi<g ref="char:EOLhyphen"/>reth Self-Denial of them that profeſs his name?</hi>
+               </p>
+               <p>A. Yes; becauſe by Self-Denial the power and goodneſs of the Truths of God are made manifeſt to the incredulous World. For they cannot ſee but by the Self-Denial of Gods peo<g ref="char:EOLhyphen"/>ple, that there is ſuch Power, Glory, Goodneſs and deſirableneſs in Gods Truth as indeed there is, <hi>Dan.</hi> 3.16, 28. <hi>Phil.</hi> 1.12, 13.</p>
+               <p>
+                  <hi>Q. Have you another Reaſon why God requir<g ref="char:EOLhyphen"/>eth Self-Denial?</hi>
+               </p>
+               <pb n="62" facs="tcp:104032:32"/>
+               <p>A. Yes; becauſe Self-Denial prepareth a man, though not for the pardon of his ſin, yet for that <hi>far more exceeding and eternal weight of Glory, that is laid up only for them that deny all that they have for the Lord Jeſus his name and cauſe in this World,</hi> 2 Cor. 4.8, 9, 10, 17. 2 <hi>Theſ.</hi> 1.5, 6.</p>
+               <p>
+                  <hi>Q. Before you conclude, will you give me a few inſtances of the ſeverity of God's hand upon ſome Profeſſors, that have not denied themſelves when called thereto by him?</hi>
+               </p>
+               <p>A. Yes, Willingly; <hi>Lot's</hi> Wife for but look<g ref="char:EOLhyphen"/>ing behind her towards <hi>Sodom</hi> when God cal<g ref="char:EOLhyphen"/>led her from it, was ſtricken from Heaven, and turned into a Pillar of Salt, therefore remem<g ref="char:EOLhyphen"/>ber <hi>Lots</hi> Wife, <hi>Gen.</hi> 19.17, 26. <hi>Luk.</hi> 17.31, 32.</p>
+               <p>
+                  <hi>Q. Can you give me another inſtance?</hi>
+               </p>
+               <p>A. Yes; <hi>Eſau</hi> for not denying himſelf of one morſel of Meat was denied a ſhare in the Bleſſing, and could never obtain it after, though he ſought it carefully with Tears, <hi>Gen.</hi> 25.32, 33, 34. <hi>Heb</hi> 12.14, 15.</p>
+               <p>
+                  <hi>Q. Have you at hand another inſtance?</hi>
+               </p>
+               <p>A. Yes; <hi>Judas</hi> for not-denying himſelf, loſt Chriſt, his Soul, and Heaven: and is continu<g ref="char:EOLhyphen"/>ed the great Object of God's Wrath among all Damned Souls, <hi>John</hi> 12.5, 6. <hi>Luke</hi> 22.3, 4, 5, 6. <hi>Mat.</hi> 26.14, 15, 16. <hi>Act.</hi> 1.25.</p>
+               <p>Q. <hi>Will you give me one more inſtance and ſo conclude?</hi>
+               </p>
+               <pb n="63" facs="tcp:104032:32"/>
+               <p>A. Yes; <hi>Ananias</hi> and <hi>Sapphirah</hi> his Wife, did for the want of Self Denial pull upon them<g ref="char:EOLhyphen"/>ſelves ſuch Wrath of God, that he ſlew them, while they ſtood in the midſt before the Apo<g ref="char:EOLhyphen"/>ſtles, <hi>Act.</hi> 5.1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11.</p>
+            </div>
+            <div type="conclusion">
+               <head>The Concluſion.</head>
+               <p>BEfore I wind up this diſcourſe, I would lay down theſe few things for you to conſider of, and meditate upon.</p>
+               <p n="1">I. Conſider, That ſeeing every one by na<g ref="char:EOLhyphen"/>ture are accounted ſinners; 'Tis no matter whe<g ref="char:EOLhyphen"/>ther thy actual ſins be little or great, few or ma<g ref="char:EOLhyphen"/>ny, thy ſinful nature hath already laid thee under the curſe of the Law.</p>
+               <p n="2">II. Conſider, That therefore thou haſt alrea<g ref="char:EOLhyphen"/>dy ground for humiliation, ſins to repent of, wrath to fly from, or a Soul to be damned.</p>
+               <p n="3">III. Conſider, That time ſtaies not for thee, and alſo that as time goes, ſin increaſeth, ſo that at laſt the end of thy time, and the compleating of thy ſin, are like to come upon thee in one mo<g ref="char:EOLhyphen"/>ment.</p>
+               <p n="4">IV. Bring thy laſt day often to thy bed-ſide, and ask thy heart if this morning thou waſt to die, if thou be ready to die or no.</p>
+               <p n="5">V. Know 'tis a ſad thing to lie a dying, and to be afraid to die; to lie a dying and not to
+<pb n="44" facs="tcp:104032:33"/> know whither thou art a going; to lie a dying, and not to know whether good Angels or bad muſt conduct thee out of this miſerable World.</p>
+               <p n="6">VI. Be often remembring what a bleſſed thing it is to be ſaved, to go to Heaven, to be made like Angels, and to dwell with God and Chriſt to all eternity.</p>
+               <p n="7">VII. Conſider how ſweet the thought of Sal<g ref="char:EOLhyphen"/>vation will be to thee when thou ſeeſt thy ſelf in Heaven, whilſt others are roaring in Hell.</p>
+               <closer>
+                  <salute>The Lord Jeſus Chriſt be with thy Spirit.</salute>
+               </closer>
+            </div>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:104032:33"/>
+         </div>
+      </body>
+   </text>
+</TEI>
